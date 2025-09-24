@@ -153,8 +153,8 @@ Create → Pin Content → Earn Crypto → Repeat.
 **🎤 Go Viral**<br> 
 **💰 Go to the Bank**<br> 
 <br>
-More than social media this is **your network, your rules, your money.**
-<br>
+More than just a social media platform this is **your network, your rules, your money!**
+<br><br>
 👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Taker$ and claim your share of the future. Email your name and link to your social media account.
 
 
