@@ -140,18 +140,18 @@ We’re opening the doors for exclusive **Beta Taker$** (testers) to join **MyNe
 <br><br>
 **Create, Test, Earn while helping build a platform that puts creators first.**
 
-## **✨ Why Join the Beta?**
+## **Why Join the Beta?**
 
 * Get early access to the future of Social Media.<br>
 * Earn crypto while you post, view, and save content.<br>
 * Be part of the Proof-of-Distribution economy — the more active you are, the more you earn.
 
-## **⚡ Flow:**
+## **Flow:**
 Create → Pin Content → Earn Crypto → Repeat.
 
+**🌐 Go MyNetwork**<br>
 **🎤 Go Viral**<br> 
 **💰 Go to the Bank**<br> 
-**🌐 Go MyNetwork**<br>
 <br>
 This is more than social media. This is **your network, your rules, your money.**
 
