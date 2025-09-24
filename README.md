@@ -15,9 +15,9 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 <br><br>
 <img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-03" src="https://github.com/user-attachments/assets/39db4275-2d15-4518-8f22-1c5371b1e111" />
 <br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-35" src="https://github.com/user-attachments/assets/69a2c11c-27dd-4599-a34d-8c2c8fffd5b9" />
-<br><br>
 <img width="1300" height="961" alt="Screenshot from 2025-09-22 01-49-50" src="https://github.com/user-attachments/assets/318decec-76ad-4ce7-a716-4cd73ce87ffd" />
+<br><br>
+<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-35" src="https://github.com/user-attachments/assets/69a2c11c-27dd-4599-a34d-8c2c8fffd5b9" />
 
 ## 📱 Phone View  
 | ![1](https://github.com/user-attachments/assets/8bedca11-b49b-4613-acd4-b1c10a1bfab9) | ![2](https://github.com/user-attachments/assets/9e653692-ad14-4ca4-9fdf-c008fc015d88) | ![3](https://github.com/user-attachments/assets/d85fb41d-ce37-4b1f-a299-a47f414c0fc0) | ![4](https://github.com/user-attachments/assets/974cff77-22dc-4d2e-8264-2a78ed548b43) |
