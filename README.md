@@ -21,11 +21,10 @@ MyNetwork is a creator-centric social media platform that blends the immersive, 
 <img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-35" src="https://github.com/user-attachments/assets/36fa0eeb-7c13-4933-9e07-b7e8fd96ee2d" />
 
 ## 📱 Phone View  
-
-| ![1](https://github.com/user-attachments/assets/e30cf3f7-c67e-496d-a72f-11ae864e4c22) | ![2](https://github.com/user-attachments/assets/a3b11e92-2c88-494c-be9d-88ad2cbb283b) | ![3](https://github.com/user-attachments/assets/0720fdfc-78fe-497b-b116-6ea1b58d72e3) | ![4](https://github.com/user-attachments/assets/ac7690d1-bdc6-4d98-b988-bccc4f5a2fd1) |
+| ![1](https://github.com/user-attachments/assets/8bedca11-b49b-4613-acd4-b1c10a1bfab9) | ![2](https://github.com/user-attachments/assets/9e653692-ad14-4ca4-9fdf-c008fc015d88) | ![3](https://github.com/user-attachments/assets/d85fb41d-ce37-4b1f-a299-a47f414c0fc0) | ![4](https://github.com/user-attachments/assets/974cff77-22dc-4d2e-8264-2a78ed548b43) |
 |---|---|---|---|
-| ![5](https://github.com/user-attachments/assets/c7d734b0-9b1b-4a10-b43f-607b18922426) | ![6](https://github.com/user-attachments/assets/fb1ca0d2-2745-4bfb-93b3-f84a27965101) | ![7](https://github.com/user-attachments/assets/fff26181-7c44-4b50-953d-e84f36f61e3a) | ![8](https://github.com/user-attachments/assets/fe19752e-3dab-4dd2-877e-53cd791b9613) |
-| ![9](https://github.com/user-attachments/assets/5ac180cd-552b-4afe-bbcd-cabcd8c6ac1b) | ![10](https://github.com/user-attachments/assets/a490bd57-722e-4c01-8002-dfbe21bbaf8a) | ![11](https://github.com/user-attachments/assets/42def982-700e-4838-a975-d60261148fa4) | ![12](https://github.com/user-attachments/assets/7e54d5f9-b5b0-4aeb-9bc5-36d84ba52ff8) |
+| ![5](https://github.com/user-attachments/assets/c0e462a3-fb63-4519-9335-5116f31b1161) | ![6](https://github.com/user-attachments/assets/6684a0fc-936e-40be-83c6-2957037092c3) | ![7](https://github.com/user-attachments/assets/4786ab21-d481-4f62-9d61-1f2d42bc6931) | ![8](https://github.com/user-attachments/assets/515ef1f9-40f1-4809-a0ac-aace45ad1d4f) |
+| ![9](https://github.com/user-attachments/assets/9f1dc0eb-4063-4a30-a4c6-9789339bcd57) | ![10](https://github.com/user-attachments/assets/7d040286-51ea-48d1-bb01-9e7277e84076) | ![11](https://github.com/user-attachments/assets/c1b22c0c-b957-47aa-93b5-507c495e2b69) | ![12](https://github.com/user-attachments/assets/6a453dae-f3b2-444d-beca-388aa664eaea) |
 
 ## **🎯 Key Features**
 
