@@ -155,7 +155,7 @@ Create → Pin Content → Earn Crypto → Repeat.
 <br>
 This is more than social media. This is **your network, your rules, your money.**
 
-👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Taker$ and claim your share of the future.
+👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Taker$ and claim your share of the future. Email your name and link to your social media account.
 
 ---
 
