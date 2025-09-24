@@ -5,29 +5,27 @@
 MyNetwork is a creator-centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments. 
 
 ## 🌐 Web View
-
-<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-22" src="https://github.com/user-attachments/assets/e5832a3f-5e11-4df0-9c79-2ef9d868d0d8" />
+<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-22" src="https://github.com/user-attachments/assets/4cab2350-859f-4942-a19c-ca2b1ce8aef8" />
 <br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-48" src="https://github.com/user-attachments/assets/18dd29aa-364d-4007-b8b8-817810f55794" />
+<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-48" src="https://github.com/user-attachments/assets/f6437edc-895b-408b-b788-d0f054b334e8" />
 <br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-47-02" src="https://github.com/user-attachments/assets/2b461f52-0c44-4a72-b07b-f0ff32b33444" />
+<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-49-21" src="https://github.com/user-attachments/assets/789937ad-5793-447e-8b69-609a67c6e4b5" />
 <br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-49-21" src="https://github.com/user-attachments/assets/83315791-fa4f-4314-8da3-3f42a2430fb8" />
+<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-47-02" src="https://github.com/user-attachments/assets/6cca18ac-9419-4414-a89c-f7e286927d38" />
 <br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-03" src="https://github.com/user-attachments/assets/eae4d6f3-1c19-498c-b916-692b46595254" />
+<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-03" src="https://github.com/user-attachments/assets/39db4275-2d15-4518-8f22-1c5371b1e111" />
 <br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-49-50" src="https://github.com/user-attachments/assets/07f37b9d-93b5-4ed2-90bf-cb4c88ce1b52" />
+<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-35" src="https://github.com/user-attachments/assets/69a2c11c-27dd-4599-a34d-8c2c8fffd5b9" />
 <br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-35" src="https://github.com/user-attachments/assets/36fa0eeb-7c13-4933-9e07-b7e8fd96ee2d" />
+<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-49-50" src="https://github.com/user-attachments/assets/318decec-76ad-4ce7-a716-4cd73ce87ffd" />
 
 ## 📱 Phone View  
 | ![1](https://github.com/user-attachments/assets/8bedca11-b49b-4613-acd4-b1c10a1bfab9) | ![2](https://github.com/user-attachments/assets/9e653692-ad14-4ca4-9fdf-c008fc015d88) | ![3](https://github.com/user-attachments/assets/d85fb41d-ce37-4b1f-a299-a47f414c0fc0) | ![4](https://github.com/user-attachments/assets/974cff77-22dc-4d2e-8264-2a78ed548b43) |
 |---|---|---|---|
-| ![5](https://github.com/user-attachments/assets/c0e462a3-fb63-4519-9335-5116f31b1161) | ![6](https://github.com/user-attachments/assets/6684a0fc-936e-40be-83c6-2957037092c3) | ![7](https://github.com/user-attachments/assets/4786ab21-d481-4f62-9d61-1f2d42bc6931) | ![8](https://github.com/user-attachments/assets/515ef1f9-40f1-4809-a0ac-aace45ad1d4f) |
-| ![9](https://github.com/user-attachments/assets/9f1dc0eb-4063-4a30-a4c6-9789339bcd57) | ![10](https://github.com/user-attachments/assets/7d040286-51ea-48d1-bb01-9e7277e84076) | ![11](https://github.com/user-attachments/assets/c1b22c0c-b957-47aa-93b5-507c495e2b69) | ![12](https://github.com/user-attachments/assets/6a453dae-f3b2-444d-beca-388aa664eaea) |
+| ![5](https://github.com/user-attachments/assets/c0e462a3-fb63-4519-9335-5116f31b1161) | ![6](https://github.com/user-attachments/assets/6684a0fc-936e-40be-83c6-2957037092c3) | ![7](https://github.com/user-attachments/assets/4786ab21-d481-4f62-9d61-1f2d42bc6931) | ![8](https://github.com/user-attachments/assets/9f1dc0eb-4063-4a30-a4c6-9789339bcd57) |
+| ![9](https://github.com/user-attachments/assets/515ef1f9-40f1-4809-a0ac-aace45ad1d4f) | ![10](https://github.com/user-attachments/assets/7d040286-51ea-48d1-bb01-9e7277e84076) | ![11](https://github.com/user-attachments/assets/c1b22c0c-b957-47aa-93b5-507c495e2b69) | ![12](https://github.com/user-attachments/assets/6a453dae-f3b2-444d-beca-388aa664eaea) |
 
 ## **🎯 Key Features**
-
 
 ### **🔄 Modern Swipe-first UI/UX**
 * Swipe-based, full screen content feed optimized for instant loading
