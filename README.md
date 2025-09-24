@@ -133,7 +133,7 @@ We’re opening the doors for exclusive **Beta Taker$** to join **MyNetwork** �
 
 **No ads. No exploitation. Just real connections and real crypto rewards.**
 <br><br>
-**💸 1 Million USDC Coin worth of $MYNW Tokens on the table.**
+**💸 1 Million USDC Coin worth of $MYNW Tokens on the table 💸**
 <br><br>
 **Create, Test, Earn while helping build a platform that puts creators first.**
 
