@@ -131,7 +131,7 @@ Learn from real pros and get paid in crypto for teaching others.
 
 We’re opening the doors for exclusive **Beta Taker$** to join **MyNetwork** — The next generation of Social Media built for creators.
 
-**No ads. No exploitation. Just real connections and real crypto rewards.**
+**No ads. No exploitation. Just real connections and real crypto rewards!**
 <br><br>
 **💸 1 Million USDC Coin worth of $MYNW Tokens on the table 💸**
 <br><br>
