@@ -132,7 +132,7 @@ Learn from real pros and get paid in crypto for teaching others.
 
 ## **🚀 Be the First to Shape the Future of Social Media**
 
-We’re opening the doors for exclusive **Beta Taker$** (testers) to join **MyNetwork** — the next generation social platform built for creators, educators, and innovators.
+We’re opening the doors for exclusive **Beta Taker$** (testers) to join **MyNetwork** — The next generation of Social Media built for creators.
 
 **No ads. No exploitation. Just real connections and real crypto rewards.**
 <br><br>
@@ -153,10 +153,12 @@ Create → Pin Content → Earn Crypto → Repeat.
 **🎤 Go Viral**<br> 
 **💰 Go to the Bank**<br> 
 <br>
-This is more than social media. This is **your network, your rules, your money.**
-
+More than social media this is **your network, your rules, your money.**
+<br>
 👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Taker$ and claim your share of the future. Email your name and link to your social media account.
 
+
 ---
+
 
 **Built with ❤️ for creators, powered by blockchain technology, designed for the future of social media**
