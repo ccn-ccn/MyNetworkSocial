@@ -111,7 +111,6 @@ Learn from real pros and get paid in crypto for teaching others.
 ### Recommendation Algorithm
 
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
-
 Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. This means:
 
 - **No Viral Amplification**: Extreme content cannot "go viral" and pollute everyone's feed
