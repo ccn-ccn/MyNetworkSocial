@@ -122,15 +122,15 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 
 Our algorithm ranks content based on the following priority order:
 
-**💸 Tipped Content** - Content you've financially supported with USDC
-**👥 Following Accounts** - Creators you've chosen to follow
-**💾 Saved Content** - Posts you've bookmarked for later
-**💬 Commented Content** - Posts you've engaged with through comments
-**📤 Shared Content** - Content you've shared with others
-**👀 Viewed Content + Time** - Content you've watched with viewing duration
-**👆 Double-Clicked Content** - Content you've interacted with via double-tap
-**🏷️ Tags Used** - Content matching your tag preferences
-**🔥 Popularity Boost** - Trending content (weight increases as your engagement decreases)
+* **💸 Tipped Content** - Content you've financially supported with USDC
+* **👥 Following Accounts** - Creators you've chosen to follow
+* **💾 Saved Content** - Posts you've bookmarked for later
+* **💬 Commented Content** - Posts you've engaged with through comments
+* **📤 Shared Content** - Content you've shared with others
+* **👀 Viewed Content + Time** - Content you've watched with viewing duration
+* **👆 Double-Clicked Content** - Content you've interacted with via double-tap
+* **🏷️ Tags Used** - Content matching your tag preferences
+* **🔥 Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
 
