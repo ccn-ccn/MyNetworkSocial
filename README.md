@@ -146,7 +146,7 @@ Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commente
 
 - **Financial Accountability**: Users must financially commit to extreme content for it to dominate their feed
 - **Relationship First**: Heavy weighting on "Following" prioritizes trusted relationships over algorithmic suggestions  
-- **Quality Signals**: Saving and deliberate engagement indicate thoughtful consumption vs rage-driven clicks
+- **Quality Signals**: Saving and deliberate engagement indicate thoughtful consumption vs rage driven clicks
 
 ### Result
 
