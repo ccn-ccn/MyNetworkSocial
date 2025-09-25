@@ -108,15 +108,21 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Multi-Sig Treasury**: Platform funds secured with multi-signature wallets
 * **Full control** over moderation pipeline
 
-# **MyNetwork's Recommendation Algorithm**
+**MyNetwork's Recommendation Algorithm**
+<br>
 Designed to Prioritize Human Intent Over Engagement Manipulation
+<br>
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
+<br>
 Key Innovation: Each user's recommendations are shaped only by their own actions, not by aggregated network popularity. This means:
+<br>
 No Viral Amplification: Extreme content cannot "go viral" and pollute everyone's feed
+<br>
 Self-Contained Gaming Protection: If someone tries to game the system by mass-saving content, they only affect their own recommendations
+<br>
 Eliminates Coordinated Attacks: Bad actors cannot boost harmful content for other users
-
-# **Recommendation Priority Hierarchy**
+<br>
+**Recommendation Priority Hierarchy**
 <br>
 Our algorithm ranks content based on the following priority order:
 <br>
@@ -129,8 +135,8 @@ Our algorithm ranks content based on the following priority order:
 * 👆 Double-Clicked Content - Content you've interacted with via double-tap
 * 🏷️ Tags Used - Content matching your tag preferences
 * 🔥 Popularity Boost - Trending content (weight increases as your engagement decreases)
-
-# **⚖️ Mathematical Scoring Formula**
+<br><br>
+**Mathematical Scoring Formula**
 <br>
 Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commented + w5×Shared + w6×Viewed + w7×DoubleClick + w8×Tags) + (1-E) × w9×Popularity
 <br>
@@ -143,7 +149,7 @@ D = Decay factor (reduces as engagement drops)
 E = User engagement level (0-1 scale)
 <br>
 w1-w9 = Signal weights (tipping gets highest weight at 0.35)
-
+<br><br>
 **🛡️ Anti-Radicalization Safeguards**
 <br>
 Financial Accountability: By prioritizing tipped content, users must financially commit to extreme content for it to dominate their feed - creating a natural deterrent.
