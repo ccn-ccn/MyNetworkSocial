@@ -108,31 +108,31 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Multi-Sig Treasury**: Platform funds secured with multi-signature wallets
 * **Full control** over moderation pipeline
 
-# MyNetwork's Recommendation Algorithm
+### MyNetwork's Recommendation Algorithm
 
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
 
 Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. This means:
 
 - **No Viral Amplification**: Extreme content cannot "go viral" and pollute everyone's feed
-- **Self-Contained Gaming Protection**: If someone tries to game the system by mass-saving content, they only affect their own recommendations
+- **Gaming Protection**: If someone tries to game the system by mass-saving content, they only affect their own recommendations
 - **Eliminates Coordinated Attacks**: Bad actors cannot boost harmful content for other users
 
-## Recommendation Priority Hierarchy
+### Recommendation Priority Hierarchy
 
 Our algorithm ranks content based on the following priority order:
 
-1. **💸 Tipped Content** - Content you've financially supported with USDC
-2. **👥 Following Accounts** - Creators you've chosen to follow
-3. **💾 Saved Content** - Posts you've bookmarked for later
-4. **💬 Commented Content** - Posts you've engaged with through comments
-5. **📤 Shared Content** - Content you've shared with others
-6. **👀 Viewed Content + Time** - Content you've watched with viewing duration
-7. **👆 Double-Clicked Content** - Content you've interacted with via double-tap
-8. **🏷️ Tags Used** - Content matching your tag preferences
-9. **🔥 Popularity Boost** - Trending content (weight increases as your engagement decreases)
+**💸 Tipped Content** - Content you've financially supported with USDC
+**👥 Following Accounts** - Creators you've chosen to follow
+**💾 Saved Content** - Posts you've bookmarked for later
+**💬 Commented Content** - Posts you've engaged with through comments
+**📤 Shared Content** - Content you've shared with others
+**👀 Viewed Content + Time** - Content you've watched with viewing duration
+**👆 Double-Clicked Content** - Content you've interacted with via double-tap
+**🏷️ Tags Used** - Content matching your tag preferences
+**🔥 Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
-## Mathematical Scoring Formula
+### Mathematical Scoring Formula
 
 ```
 Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commented + w5×Shared + w6×Viewed + w7×DoubleClick + w8×Tags) + (1-E) × w9×Popularity
@@ -144,14 +144,14 @@ Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commente
 - `E` = User engagement level (0-1 scale)
 - `w1-w9` = Signal weights (tipping gets highest weight at 0.35)
 
-## Anti-Radicalization Safeguards
+### Anti-Radicalization Safeguards
 
 - **Financial Accountability**: Users must financially commit to extreme content for it to dominate their feed
 - **Relationship-First**: Heavy weighting on "Following" prioritizes trusted relationships over algorithmic suggestions  
 - **Quality Signals**: Saving and deliberate engagement indicate thoughtful consumption vs rage-driven clicks
 - **Transparency Tools**: Users see exactly why content appears in their feed, maintaining awareness and control
 
-## Result
+### Result
 
 A recommendation system that promotes genuine discovery, rewards creator quality, and eliminates the algorithmic pathways that lead to radicalization on traditional platforms.
 **MyNetwork's algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing creator monetization opportunities.**
