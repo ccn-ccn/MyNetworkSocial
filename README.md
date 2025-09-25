@@ -119,8 +119,6 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 
 ### Recommendation Priority Hierarchy
 
-Our algorithm ranks content based on the following priority order:
-
 * **💸 Tipped Content** - Content you've financially supported with USDC
 * **👥 Following Accounts** - Creators you've chosen to follow
 * **💾 Saved Content** - Posts you've bookmarked for later
