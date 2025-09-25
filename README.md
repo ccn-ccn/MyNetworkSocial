@@ -144,7 +144,7 @@ Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commente
 ### Anti-Radicalization Safeguards
 
 - **Financial Accountability**: Users must financially commit to extreme content for it to dominate their feed
-- **Relationship-First**: Heavy weighting on "Following" prioritizes trusted relationships over algorithmic suggestions  
+- **Relationship First**: Heavy weighting on "Following" prioritizes trusted relationships over algorithmic suggestions  
 - **Quality Signals**: Saving and deliberate engagement indicate thoughtful consumption vs rage-driven clicks
 - **Transparency Tools**: Users see exactly why content appears in their feed, maintaining awareness and control
 
