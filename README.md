@@ -103,10 +103,10 @@ Learn from real pros and get paid in crypto for teaching others.
 7. **Distribution Incentives**: Earn $MYNW for distributing content viewed
    
 ## **🛡️ Security & Compliance**
+* **Adaptive Transaction Limits**: Email one time password for transactions above user set limit
 * **Non-Custodial**: Users maintain full control of their crypto
 * **Multi-Sig Treasury**: Platform funds secured with multi-signature wallets
 * **Full control** over moderation pipeline
-* **Adaptive Transaction Limits**: Email one time password for transactions above user set limits.
 
 ## **🛠️ Tech Stack**
 
