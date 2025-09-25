@@ -139,7 +139,7 @@ We’re opening the doors for exclusive **Beta Testers** to join **MyNetwork** �
 
 * Get early access to the future of Social Media.<br>
 * Earn crypto while you post, view, and save content.<br>
-* Be part of the Proof-of-Distribution economy — the more active you are, the more you earn.
+* Be part of the Proof of Distribution economy — the more active you are, the more you earn.
 
 ## **Flow:**
 Create → Pin Content → Earn Crypto → Repeat.
