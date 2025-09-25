@@ -106,9 +106,7 @@ Learn from real pros and get paid in crypto for teaching others.
 * **Non-Custodial**: Users maintain full control of their crypto
 * **Multi-Sig Treasury**: Platform funds secured with multi-signature wallets
 * **Full control** over moderation pipeline
-* **Adaptive Transaction Security**: Users can enable Email OTP verification for checkout
-  * Set personal transaction limits
-  * For payments above that limit, a secure one time code is sent to the registered email.
+* **Adaptive Transaction Limits**: Email one time password for transactions above user set limits.
 
 ## **🛠️ Tech Stack**
 
