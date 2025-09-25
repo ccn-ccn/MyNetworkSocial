@@ -136,10 +136,10 @@ Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commente
 ```
 
 **Where:**
-- `C` = Category weight (videos/music = 1.0, commerce/gaming = 0.6)
-- `D` = Decay factor (reduces as engagement drops)
-- `E` = User engagement level (0-1 scale)
-- `w1-w9` = Signal weights (tipping gets highest weight at 0.35)
+<br> `C` = Category weight (videos/music = 1.0, commerce/gaming = 0.6)
+<br> `D` = Decay factor (reduces as engagement drops)
+<br> `E` = User engagement level (0-1 scale)
+<br> `w1-w9` = Signal weights (tipping gets highest weight at 0.35)
 
 ### Anti-Radicalization Safeguards
 
