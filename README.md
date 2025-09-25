@@ -164,6 +164,69 @@ Result: A recommendation system that promotes genuine discovery, rewards creator
 <br>
 MyNetwork's algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing creator monetization opportunities.
 
+
+# 🧠 MyNetwork's Recommendation Algorithm
+
+## Designed to Prioritize Human Intent Over Engagement Manipulation
+
+MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
+
+### 🔑 Key Innovation
+
+Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. This means:
+
+- **No Viral Amplification**: Extreme content cannot "go viral" and pollute everyone's feed
+- **Self-Contained Gaming Protection**: If someone tries to game the system by mass-saving content, they only affect their own recommendations
+- **Eliminates Coordinated Attacks**: Bad actors cannot boost harmful content for other users
+
+## 📊 Recommendation Priority Hierarchy
+
+Our algorithm ranks content based on the following priority order:
+
+1. **💸 Tipped Content** - Content you've financially supported with USDC
+2. **👥 Following Accounts** - Creators you've chosen to follow
+3. **💾 Saved Content** - Posts you've bookmarked for later
+4. **💬 Commented Content** - Posts you've engaged with through comments
+5. **📤 Shared Content** - Content you've shared with others
+6. **👀 Viewed Content + Time** - Content you've watched with viewing duration
+7. **👆 Double-Clicked Content** - Content you've interacted with via double-tap
+8. **🏷️ Tags Used** - Content matching your tag preferences
+9. **🔥 Popularity Boost** - Trending content (weight increases as your engagement decreases)
+
+## ⚖️ Mathematical Scoring Formula
+
+```
+Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commented + w5×Shared + w6×Viewed + w7×DoubleClick + w8×Tags) + (1-E) × w9×Popularity
+```
+
+**Where:**
+- `C` = Category weight (videos/music = 1.0, commerce/gaming = 0.6)
+- `D` = Decay factor (reduces as engagement drops)
+- `E` = User engagement level (0-1 scale)
+- `w1-w9` = Signal weights (tipping gets highest weight at 0.35)
+
+## 🛡️ Anti-Radicalization Safeguards
+
+### Financial Accountability
+By prioritizing tipped content, users must financially commit to extreme content for it to dominate their feed - creating a natural deterrent.
+
+### Relationship-First
+Heavy weighting on "Following" keeps feeds grounded in trusted relationships rather than algorithmic suggestions.
+
+### Quality Signals
+Saving and deliberate engagement indicate thoughtful consumption rather than rage-driven clicks.
+
+### Transparency Tools
+Users can see exactly why content appears in their feed, maintaining awareness and control.
+
+## 🎯 Result
+
+A recommendation system that promotes genuine discovery, rewards creator quality, and eliminates the algorithmic pathways that lead to radicalization on traditional platforms.
+
+---
+
+**MyNetwork's algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing creator monetization opportunities.**
+
 ## **🛠️ Tech Stack**
 
 ### **🌐 Cloud Services & Delivery**
