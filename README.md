@@ -32,6 +32,16 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 * Creators can post photos, videos, music, books, and more
 * Integrated crypto payments for seamless monetization
 
+### **🎤 Support for All Creators**
+* 🎶 Musicians: sell music or albums directly
+* 🎬 Filmmakers: sell or rent movies in app
+* 📚 Authors: sell digital or physical books
+* 🛍️ Retail stores: sell products with integrated delivery
+* 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
+* 🤣 Comedians: charge for video clips or subscription to exclusive content
+* 👗 Models: sell exclusive content or subscription based fan experiences
+* **Verified Media Outlets & Premium Accounts**: SaaS style subscriptions, content always CDN served
+  
 ### **💸 Direct Crypto Monetization**
 * **Stablecoin Payments**: USDC
 * **Instant Settlements**: Direct wallet to wallet transactions
@@ -43,25 +53,43 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
 
-### **🎤 Support for All Creators**
-* 🎶 Musicians: sell music or albums directly
-* 🎬 Filmmakers: sell or rent movies in app
-* 📚 Authors: sell digital or physical books
-* 🛍️ Retail stores: sell products with integrated delivery
-* 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
-* 🤣 Comedians: charge for video clips or subscription to exclusive content
-* 👗 Models: sell exclusive content or subscription based fan experiences
-* **Verified Media Outlets & Premium Accounts**: SaaS style subscriptions, content always CDN served
-  
-### **🧠 Content Creator TV**
-Filter your feed by topics like:
-* AI & Robotics
-* Construction & Electrician
-* Welding & Auto Repair
-* Soldering & 3D Printing
-* Cybersecurity & Coding
+## **💳 Advance NFTs (Peer-to-Peer Lending Smart Contracts)**
 
-Learn from real pros and get paid in crypto for teaching others.
+Creators can access **Advance NFTs** a peer-to-peer lending system built directly into the platform.  
+This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a transferable NFT.
+
+### 🔄 How It Works
+
+**1. Loan Proposal**  
+- A lender creates a loan request with terms such as:  
+  - **Principal amount** (in USDC)  
+  - **Revenue share percentage** (e.g. 25% of all on-platform earnings)  
+  - **Duration** (3, 6, or 12 months)  
+
+**2. Creator Acceptance**  
+- The tagged creator can review the terms and choose to accept or reject.  
+- If accepted, the funds are transferred to the creator’s wallet.  
+
+**3. Smart Contract Enforcement**  
+- All of the creator’s on platform earnings flow through the smart contract.  
+- The contract automatically diverts the agreed percentage to the lender’s wallet.  
+- No manual repayment required, enforced by smart contract code.  
+
+**4. NFT Representation**  
+- Each loan agreement is minted as a unique **Advance NFT**.  
+- The NFT contains the loan terms and repayment rights.  
+- Lenders may hold the NFT until the contract matures or **resell it to another user**.  
+
+### 🛡️ Safeguards
+- **Revenue Share Only**: Loans are tied strictly to on platform earnings, ensuring transparent repayment flows.  
+- **Duration Limits**: All agreements have a defined end date (3, 6, 12 months).   
+- **Non-Custodial**: Funds move directly between user wallets via smart contracts.  
+
+### ⚠️ Important Disclaimers
+> - Creator Advances are **peer-to-peer loans**, **not investments or securities**.  
+> - There is **no guarantee of repayment** beyond the creator’s on platform earnings.  
+> - Lenders should only provide funds to creators they know and trust.  
+> - **Do not lend more than you can afford to lose.**  
 
 ## **⚡ Hybrid Content Delivery Network Architecture**
 
