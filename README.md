@@ -115,7 +115,7 @@ MyNetwork uses a recommendation system specifically engineered to prevent algori
 Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. This means:
 
 - **No Viral Amplification**: Extreme content cannot "go viral" and pollute everyone's feed
-- **Gaming Protection**: If someone tries to game the system by mass-saving content, they only affect their own recommendations
+- **Gaming Protection**: If someone tries to game the system by mass saving content, they only affect their own recommendations
 - **Eliminates Coordinated Attacks**: Bad actors cannot boost harmful content for other users
 
 ### Recommendation Priority Hierarchy
