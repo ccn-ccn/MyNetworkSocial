@@ -177,8 +177,6 @@ Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commente
 **A recommendation system that promotes genuine discovery, rewards creator quality, and eliminates the algorithmic pathways that lead to radicalization on traditional platforms.
 MyNetwork's algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing creator monetization opportunities.**
 
----
-
 ## **🛠️ Tech Stack**
 
 ### **🌐 Cloud Services & Delivery**
