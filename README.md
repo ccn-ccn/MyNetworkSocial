@@ -53,7 +53,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
 
-### **💳 Advance NFTs (Peer-to-Peer Lending Smart Contracts)**
+### **💳 Advance NFTs (P2P Smart Contracts)**
 
 Creators can access **Advance NFTs** a peer-to-peer lending system built directly into the platform.  
 This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a transferable NFT.
