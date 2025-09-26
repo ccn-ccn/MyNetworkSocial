@@ -80,11 +80,6 @@ This enables fans, backers, and lenders to provide upfront capital to creators i
 - The NFT contains the loan terms and repayment rights.  
 - Lenders may hold the NFT until the contract matures or **resell it to another user**.  
 
-### 🛡️ Safeguards
-- **Revenue Share Only**: Loans are tied strictly to on platform earnings, ensuring transparent repayment flows.  
-- **Duration Limits**: All agreements have a defined end date (3, 6, 12 months).   
-- **Non-Custodial**: Funds move directly between user wallets via smart contracts.  
-
 ### ⚠️ Important Disclaimers
 > - Creator Advances are **peer-to-peer loans**, **not investments or securities**.  
 > - There is **no guarantee of repayment** beyond the creator’s on platform earnings.  
