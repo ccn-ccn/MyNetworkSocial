@@ -158,7 +158,7 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 ## **🛠️ Tech Stack**
 
 ### **🌐 Cloud Services & Delivery**
-* **IBM Cloud Databases for MongoDB** → Flexible, document-oriented database for user accounts, profiles, and app metadata.
+* **IBM Cloud Databases for MongoDB** → Flexible database for user accounts, profiles, and app metadata.
 * **IBM Cloud Object Storage** → Secure, scalable storage for all uploads.
 * **Cloudflare CDN** → Global edge delivery for videos, livestreams, and static assets.
 * **Hybrid Flow**: Uploads land in IBM storage, served via Cloudflare for low-latency delivery.
