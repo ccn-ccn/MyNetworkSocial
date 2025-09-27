@@ -114,18 +114,7 @@ Creators can access **Advance NFTs** a peer-to-peer lending system built directl
 
 ### **Wallet Integration**
 * Phantom
-  
-## **🔄 User Flow**
-1. **Account Creation**: Connect wallet 
-2. **Profile Setup**: Add bio
-3. **Content Upload**: Upload content (security validation)
-   * Premium Video → stays on Central CDN
-   * Downloads → pushed to P2P CDN after review
-4. **Monetization**: Set prices in USDC
-5. **Discovery**: Browse content, pay with USDC
-6. **Payments**: Instant wallet to wallet settlements via smart contracts
-7. **Distribution Incentives**: Earn $MYNW for distributing content viewed
-   
+
 ## **🛡️ Security & Compliance**
 * **Adaptive Transaction Limits**: Email one time password for transactions above user set limit
 * **Non-Custodial**: Users maintain full control of their crypto
