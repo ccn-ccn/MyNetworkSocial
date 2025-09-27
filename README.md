@@ -86,7 +86,7 @@ Creators can access **Advance NFTs** a peer-to-peer lending system built directl
 > - **Do not lend more than you can afford to lose.**  
 
 
-## **⚡ Hybrid Content Delivery Network Architecture**
+## **Hybrid Content Delivery Network Architecture**
 
 ### **Step 1: Central Content Delivery Network**
 
