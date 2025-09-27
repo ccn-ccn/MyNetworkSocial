@@ -105,7 +105,7 @@ Creators can access **Advance NFTs** a peer-to-peer lending system built directl
 * Cash out $MYNW for USDC in app.
 * Rewards increase with more app usage. (Proof-of-Distribution model)
   
-### **💰 Supported Tokens**
+### **Supported Tokens**
 * **Solana**: High speed, Low fees
 * **Stablecoins**: USDC
 * **Platform Token**: $MYNW (rewards)
