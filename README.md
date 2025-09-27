@@ -63,7 +63,7 @@ Creators can access **Advance NFTs** a peer-to-peer lending system built directl
 - A lender creates a loan request with terms such as:  
   - **Principal amount** (in USDC)  
   - **Revenue share percentage** (e.g. 25% of all on platform earnings)  
-  - **Duration** (3, 6, or 12 months)  
+  - **Duration** (1 - 36 months)  
 
 **2. Creator Acceptance**  
 - The tagged creator can review the terms and choose to accept or reject.  
