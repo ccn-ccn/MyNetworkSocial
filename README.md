@@ -29,7 +29,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 
 ### **🔄 Modern Swipe-first UI/UX**
 * Swipe-based, full screen content feed optimized for instant loading
-* Creators can post photos, videos, music, books, and more
+* Creators can post photos, videos, music, merchandise, and more
 * Integrated crypto payments for seamless monetization
 
 ### **🎤 Support for All Creators**
