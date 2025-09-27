@@ -183,7 +183,7 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 
 ---
 
-## **🚀 Be the First to Shape the Future of Social Media 🚀 **
+## **🚀 Be the First to Shape the Future of Social Media 🚀**
 
 We’re opening the doors for exclusive **Beta Testers** to join **MyNetwork** — The next generation of Social Media built for creators.
 
