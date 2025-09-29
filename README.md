@@ -131,7 +131,7 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 
 ### Recommendation Priority Hierarchy
 
-* **Tipped Content** - Content you've financially supported with USDC
+* **Tip/Paid Content** - Content you've financially supported with USDC
 * **Following Accounts** - Creators you've chosen to follow
 * **Saved Content** - Posts you've bookmarked for later
 * **Commented Content** - Posts you've engaged with through comments
