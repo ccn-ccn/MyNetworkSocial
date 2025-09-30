@@ -175,6 +175,7 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 
 ### **🤖 AI Moderation & Compliance**
 * **IBM Watson AI** → Automated content moderation (image/video/audio/NLP analysis) to block impersonation, deepfakes, and unsafe content.
+* **Human-in-the-Loop Moderation** → Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
 
 ### **🔗 Decentralized Distribution**
 * **IPFS (InterPlanetary File System)** → P2P content replication for downloads (short videos, music, ebooks, docs, photos).
