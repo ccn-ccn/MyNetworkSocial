@@ -113,6 +113,7 @@ Creators can access **Advance NFTs** a peer-to-peer lending system built directl
 
 ### **Wallet Integration**
 * Phantom
+* MyWallet (comming soon)
 
 ## **🛡️ Security & Compliance**
 * **Adaptive Transaction Limits**: Email one time password for transactions above user set limit
