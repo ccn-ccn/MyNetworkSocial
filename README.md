@@ -173,9 +173,9 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 * **Human-in-the-Loop Moderation** → Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
 
 ### **🔗 Decentralized Distribution**
-* **IPFS (InterPlanetary File System)** → P2P content replication for downloads (short videos, music, ebooks, docs, photos).
+* **IPFS (InterPlanetary File System)** → P2P content replication for downloads
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
-* **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime.
+* **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime
 
 ---
 
