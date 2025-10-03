@@ -95,7 +95,7 @@ Creators can access **Advance NFTs** a peer to peer lending system built directl
 
 ### **Step 3: Incentivized Distribution via \$MYNW**
 
-* Users who stay online automatically distribute content viewed and earn $MYNW token rewards.
+* Users who stay online automatically distribute content pinned and earn $MYNW token rewards.
 * Cash out $MYNW for USDC in app.
 * Rewards increase with more app usage. (Proof of Distribution model)
   
