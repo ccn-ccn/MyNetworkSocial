@@ -35,7 +35,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
 * 🤣 Comedians: charge for video clips or subscription to exclusive content
 * 👗 Models: sell exclusive content or subscription based fan experiences
-* **Verified Media Outlets & Premium Accounts**: SaaS style subscriptions, content always CDN served
+* **Verified Media Outlets & Premium Accounts**: SaaS style subscriptions, content always CDN served, gold check
   
 ### **💸 Direct Crypto Monetization**
 * **Stablecoin Payments**: USDC
