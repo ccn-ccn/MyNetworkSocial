@@ -84,21 +84,21 @@ Creators can access **Advance NFTs** a peer to peer lending system built directl
 
 ### **Step 1: Central Content Delivery Network**
 
-* All uploads start on the Central CDN for speed and moderation.
-* Automated checks ensure compliance before distribution.
-* Ability to remove harmful or illegal content.
+* All uploads start on the Central CDN for speed and moderation
+* Automated checks ensure compliance before distribution
+* Ability to remove harmful or illegal content
 
 ### **Step 2: Screened Content Offloaded to P2P CDN**
 
-* **Premium Videos**: Stay on Central CDN for performance.
-* **Short Videos, Music, Photos, Docs**: After passing validation, replicated onto IPFS for P2P sharing.
+* **Premium Videos**: Stay on Central CDN for performance
+* **Short Videos, Music, Photos, Docs**: After passing validation, replicated onto IPFS for P2P sharing
 
 ### **Step 3: Incentivized Distribution via \$MYNW**
 
-* Users who stay online automatically distribute content pinned and earn $MYNW token rewards.
-* Cash out $MYNW for USDC in app.
-* Rewards increase with more app usage. (Proof of Distribution model)
-  
+* Users who stay online automatically distribute content pinned and earn $MYNW token rewards
+* Rewards increase with more app usage (Proof of Distribution model)
+* Cash out $MYNW for USDC in app
+   
 ### **Supported Tokens**
 * **Solana**: High speed, Low fees
 * **Stablecoins**: USDC
