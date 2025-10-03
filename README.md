@@ -73,7 +73,7 @@ Creators can access **Advance NFTs** a peer to peer lending system built directl
 - Lenders may hold the NFT until the contract matures or **resell it to another user**.  
 
 ### ⚠️ Important Disclaimers
-> - Creator Advances are **peer-to-peer loans**, **not investments or securities**.  
+> - Creator Advances are **peer to peer loans**, **not investments or securities**.  
 > - There is **no guarantee of repayment** beyond the creator’s on platform earnings.  
 > - Lenders should only provide funds to creators they know and trust.  
 
