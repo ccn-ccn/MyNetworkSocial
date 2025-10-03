@@ -108,7 +108,7 @@ Creators can access **Advance NFTs** a peer-to-peer lending system built directl
 * **Solana**: High speed, Low fees
 * **Stablecoins**: USDC
 * **Platform Token**: $MYNW (rewards)
-  * Earned by supporting the network through viewing content and staying online 
+  * Earned by supporting the network through pinning content and staying online to redistribute it
   * **CA$H OUT**: convert $MYNW into USDC in app
 
 ### **Wallet Integration**
@@ -201,7 +201,7 @@ We’re opening the doors for exclusive **Beta Testers** to join **MyNetwork** �
 * Be part of the Proof of Distribution economy — the more active you are, the more you earn.
 
 ## **Flow:**
-Create → Pin Content → Earn Crypto → Repeat.
+Create → Search → Pin → Earn → Repeat.
 
 **🌐 Go MyNetwork**<br>
 **🎤 Go Viral**<br> 
