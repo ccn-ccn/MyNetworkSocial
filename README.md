@@ -179,7 +179,7 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 
 ### **🔗 Decentralized Distribution**
 * **IPFS (InterPlanetary File System)** → P2P content replication for downloads (short videos, music, ebooks, docs, photos).
-* **Auto-Pinning Trigger**: Content auto-pins once viewed and is distributed automatically.
+* **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime.
 
 ---
