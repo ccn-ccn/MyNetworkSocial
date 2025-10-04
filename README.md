@@ -88,7 +88,7 @@ Creators can access **Advance NFTs** a peer to peer lending system built directl
 
 ### **Step 2: Screened Content Offloaded to P2P CDN**
 
-* **Premium Videos**: Stay on Central CDN for performance
+* **Premium Users Videos**: Stay on Central CDN for performance
 * **Short Videos, Music, Photos, Docs**: After passing validation, replicated onto IPFS for P2P sharing
 
 ### **Step 3: Incentivized Distribution via \$MYNW**
