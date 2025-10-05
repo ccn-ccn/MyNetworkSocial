@@ -130,7 +130,7 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 * **Saved Content** - Posts you've bookmarked for later
 * **Commented Content** - Posts you've engaged with through comments
 * **Shared Content** - Content you've shared with others
-* **Viewed Content + Time** - Content you've watched with viewing duration
+* **Viewed Content** - Content you've watched and viewing duration
 * **Double-Clicked Content** - Content you've interacted with via double-tap
 * **Tags Used** - Content matching your tag preferences
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
