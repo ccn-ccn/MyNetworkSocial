@@ -127,18 +127,18 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 
 * **Tip/Paid Content** - Content you've financially supported with USDC
 * **Following Accounts** - Creators you've chosen to follow
-* **Saved Content** - Posts you've bookmarked for later
-* **Commented Content** - Posts you've engaged with through comments
+* **Pinned Content** - Content you've pinned for later
+* **Commented Content** - Content you've engaged with through comments
 * **Shared Content** - Content you've shared with others
 * **Viewed Content** - Content you've watched and viewing duration
-* **Double-Clicked Content** - Content you've interacted with via double-tap
+* **Clicked Content** - Content you've interacted with via single-tap
 * **Tags Used** - Content matching your tag preferences
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
 
 ```
-Content Score = C × D × (w1×Tipped + w2×Following + w3×Saved + w4×Commented + w5×Shared + w6×Viewed + w7×DoubleClick + w8×Tags) + (1-E) × w9×Popularity
+Content Score = C × D × (w1×Tipped + w2×Following + w3×Pinned + w4×Commented + w5×Shared + w6×Viewed + w7×Click + w8×Tags) + (1-E) × w9×Popularity
 ```
 
 **Where:**
