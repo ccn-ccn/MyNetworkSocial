@@ -7,7 +7,8 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 ## 🌐 Web View
 
 
-
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-18-33" src="https://github.com/user-attachments/assets/44fdb176-da8a-4101-b442-c357b06756e8" />
+<br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-23-43" src="https://github.com/user-attachments/assets/dda3a728-5618-4d4b-a3e3-36d6f55d981c" />
 <br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-23-01" src="https://github.com/user-attachments/assets/cc877cbc-747d-4dbc-b688-c9f0ccb80f45" />
@@ -19,25 +20,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-21-07" src="https://github.com/user-attachments/assets/c61db738-587a-4019-9bd5-598ddd8bb89e" />
 <br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-20-51" src="https://github.com/user-attachments/assets/f9173e67-438a-4bb3-bf95-ddbb07b5014a" />
-<br><br>
-<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-18-33" src="https://github.com/user-attachments/assets/44fdb176-da8a-4101-b442-c357b06756e8" />
 
-
-
-
-<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-22" src="https://github.com/user-attachments/assets/4cab2350-859f-4942-a19c-ca2b1ce8aef8" />
-<br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-48" src="https://github.com/user-attachments/assets/f6437edc-895b-408b-b788-d0f054b334e8" />
-<br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-19 09-49-21" src="https://github.com/user-attachments/assets/789937ad-5793-447e-8b69-609a67c6e4b5" />
-<br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-47-02" src="https://github.com/user-attachments/assets/6cca18ac-9419-4414-a89c-f7e286927d38" />
-<br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-03" src="https://github.com/user-attachments/assets/39db4275-2d15-4518-8f22-1c5371b1e111" />
-<br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-49-50" src="https://github.com/user-attachments/assets/318decec-76ad-4ce7-a716-4cd73ce87ffd" />
-<br><br>
-<img width="1300" height="961" alt="Screenshot from 2025-09-22 01-48-35" src="https://github.com/user-attachments/assets/69a2c11c-27dd-4599-a34d-8c2c8fffd5b9" />
 
 ## 📱 Phone View  
 | ![1](https://github.com/user-attachments/assets/8bedca11-b49b-4613-acd4-b1c10a1bfab9) | ![2](https://github.com/user-attachments/assets/9e653692-ad14-4ca4-9fdf-c008fc015d88) | ![3](https://github.com/user-attachments/assets/d85fb41d-ce37-4b1f-a299-a47f414c0fc0) | ![4](https://github.com/user-attachments/assets/974cff77-22dc-4d2e-8264-2a78ed548b43) |
