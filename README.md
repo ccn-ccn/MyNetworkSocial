@@ -50,7 +50,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 
 ### **💳 Advance NFT (P2P Smart Contract)**
 
-Creators can access **Advance NFTs** a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a transferable NFT.
+Creators can access **Advance NFTs** a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a NFT.
 
 **1. Loan Proposal**  
 - A lender creates a loan request with terms such as:  
@@ -70,7 +70,7 @@ Creators can access **Advance NFTs** a peer to peer lending system built directl
 **4. NFT Representation**  
 - Each loan agreement is minted as a unique **Advance NFT**.  
 - The NFT contains the loan terms and repayment rights.  
-- Lenders may hold the NFT until the contract matures or **resell it to another user**.  
+- Lenders may hold the NFT until the contract matures.  
 
 ### ⚠️ Important Disclaimers
 > - Creator Advances are **peer to peer loans**, **not investments or securities**.  
