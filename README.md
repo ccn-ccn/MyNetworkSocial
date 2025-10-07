@@ -21,12 +21,11 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 <br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-22-03" src="https://github.com/user-attachments/assets/7a1cfc40-1dc8-44df-b02d-6e09f3c08d67" />
 
-
 ## 📱 Phone View  
-| ![1](https://github.com/user-attachments/assets/8bedca11-b49b-4613-acd4-b1c10a1bfab9) | ![2](https://github.com/user-attachments/assets/9e653692-ad14-4ca4-9fdf-c008fc015d88) | ![3](https://github.com/user-attachments/assets/d85fb41d-ce37-4b1f-a299-a47f414c0fc0) | ![4](https://github.com/user-attachments/assets/974cff77-22dc-4d2e-8264-2a78ed548b43) |
+| ![1](https://github.com/user-attachments/assets/eedee00c-b917-4f3a-acae-624876e66788) | ![2](https://github.com/user-attachments/assets/750c88bc-837c-4c17-8f8d-f473855fb8c5) | ![3](https://github.com/user-attachments/assets/01fd71ac-5d35-41c7-b7cd-01f3d4b2aae2) | ![4](https://github.com/user-attachments/assets/88bb096b-884c-4761-bf69-6799d682579b) |
 |---|---|---|---|
-| ![5](https://github.com/user-attachments/assets/c0e462a3-fb63-4519-9335-5116f31b1161) | ![6](https://github.com/user-attachments/assets/6684a0fc-936e-40be-83c6-2957037092c3) | ![7](https://github.com/user-attachments/assets/4786ab21-d481-4f62-9d61-1f2d42bc6931) | ![8](https://github.com/user-attachments/assets/9f1dc0eb-4063-4a30-a4c6-9789339bcd57) |
-| ![9](https://github.com/user-attachments/assets/515ef1f9-40f1-4809-a0ac-aace45ad1d4f) | ![10](https://github.com/user-attachments/assets/7d040286-51ea-48d1-bb01-9e7277e84076) | ![11](https://github.com/user-attachments/assets/c1b22c0c-b957-47aa-93b5-507c495e2b69) | ![12](https://github.com/user-attachments/assets/6a453dae-f3b2-444d-beca-388aa664eaea) |
+| ![5](https://github.com/user-attachments/assets/a94f3136-ebbe-41dc-9b82-2a7676141c97) | ![6](https://github.com/user-attachments/assets/cfa81623-5bb3-4a8b-9b94-c242f263e833) | ![7](https://github.com/user-attachments/assets/246648e1-7810-437a-a1cf-f70abf44d6dd) | ![8](https://github.com/user-attachments/assets/73223335-b536-4841-b2db-c840f6ba43c2) |
+| ![9](https://github.com/user-attachments/assets/6717310d-a52a-42de-a812-ba0b495e4f51) | ![10](https://github.com/user-attachments/assets/375377b8-a37e-4d2c-8ddc-a6b557f75d3a) | ![11](https://github.com/user-attachments/assets/4c87cbce-4278-46a1-94f5-c4714e756e1a) | ![12](https://github.com/user-attachments/assets/52965b34-3acb-41d4-9662-351f00ba4861) | ![13](https://github.com/user-attachments/assets/00971edc-a2c1-4e41-a205-7f93da19d06e) | ![14](https://github.com/user-attachments/assets/9330e8cd-1f78-4232-bce3-ab31c256dec7) | ![15](https://github.com/user-attachments/assets/d9a79e57-ec15-487e-bbc8-e6072bada1a2) | ![16](https://github.com/user-attachments/assets/251d43e9-1595-4345-992c-14701a7b1408) |
 
 ## **🎯 Key Features**
 
