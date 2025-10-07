@@ -5,6 +5,26 @@
 MyNetwork is a creator centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments. 
 
 ## 🌐 Web View
+
+
+
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-23-43" src="https://github.com/user-attachments/assets/dda3a728-5618-4d4b-a3e3-36d6f55d981c" />
+<br><br>
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-23-01" src="https://github.com/user-attachments/assets/cc877cbc-747d-4dbc-b688-c9f0ccb80f45" />
+<br><br>
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-22-33" src="https://github.com/user-attachments/assets/b0b4a05c-660e-4d8c-b097-f3281dac2022" />
+<br><br>
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-22-03" src="https://github.com/user-attachments/assets/7a1cfc40-1dc8-44df-b02d-6e09f3c08d67" />
+<br><br>
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-21-07" src="https://github.com/user-attachments/assets/c61db738-587a-4019-9bd5-598ddd8bb89e" />
+<br><br>
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-20-51" src="https://github.com/user-attachments/assets/f9173e67-438a-4bb3-bf95-ddbb07b5014a" />
+<br><br>
+<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-18-33" src="https://github.com/user-attachments/assets/44fdb176-da8a-4101-b442-c357b06756e8" />
+
+
+
+
 <img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-22" src="https://github.com/user-attachments/assets/4cab2350-859f-4942-a19c-ca2b1ce8aef8" />
 <br><br>
 <img width="1300" height="961" alt="Screenshot from 2025-09-19 09-48-48" src="https://github.com/user-attachments/assets/f6437edc-895b-408b-b788-d0f054b334e8" />
