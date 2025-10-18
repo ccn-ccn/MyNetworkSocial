@@ -134,21 +134,20 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 * **Commented Content** - Content you've engaged with through comments
 * **Shared Content** - Content you've shared with others
 * **Viewed Content** - Content you've watched and viewing duration
-* **Clicked Content** - Content you've interacted with via single-tap
 * **Tags Used** - Content matching your tag preferences
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
 
 ```
-Content Score = C × D × (w1×Tipped + w2×Following + w3×Pinned + w4×Commented + w5×Shared + w6×Viewed + w7×Click + w8×Tags) + (1-E) × w9×Popularity
+Content Score = C × D × (w1×Tipped + w2×Following + w3×Pinned + w4×Commented + w5×Shared + w6×Viewed + w7×Tags) + (1-E) × w8×Popularity
 ```
 
 **Where:**
 <br> `C` = Category weight (videos/music = 1.0, commerce/gaming = 0.6)
 <br> `D` = Decay factor (reduces as engagement drops)
 <br> `E` = User engagement level (0-1 scale)
-<br> `w1-w9` = Signal weights (tipping gets highest weight at 0.35)
+<br> `w1-w8` = Signal weights (tipping gets highest weight at 0.35)
 
 ### Anti-Radicalization Safeguards
 
