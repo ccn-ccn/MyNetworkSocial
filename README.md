@@ -140,11 +140,10 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 ### Mathematical Scoring Formula
 
 ```
-Content Score = C × D × (w1×Tipped + w2×Following + w3×Pinned + w4×Commented + w5×Shared + w6×Viewed + w7×Tags) + (1-E) × w8×Popularity
+Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Commented + w5×Shared + w6×Viewed + w7×Tags) + (1-E) × w8×Popularity
 ```
 
 **Where:**
-<br> `C` = Category weight (videos/music = 1.0, commerce/gaming = 0.6)
 <br> `D` = Decay factor (reduces as engagement drops)
 <br> `E` = User engagement level (0-1 scale)
 <br> `w1-w8` = Signal weights (tipping gets highest weight at 0.35)
