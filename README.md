@@ -51,9 +51,9 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
 
-### **💳 Advance NFT (P2P Smart Contract)**
+### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
-Creators can access **Advance NFTs** a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a NFT.
+Creators can access **P2P NFTs** a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a NFT.
 
 **1. Loan Proposal**  
 - A lender creates a loan request with terms such as:  
@@ -71,15 +71,16 @@ Creators can access **Advance NFTs** a peer to peer lending system built directl
 - No manual repayment required, enforced by smart contract code.  
 
 **4. NFT Representation**  
-- Each loan agreement is minted as a unique **Advance NFT**.  
+- Each loan agreement is minted as a unique **P2P NFT**.  
 - The NFT contains the loan terms and repayment rights.  
 - Lenders may hold the NFT until the contract matures.  
 
 ### ⚠️ Important Disclaimers
-> - Creator Advances are **peer to peer loans**, **not investments or securities**.  
+> - P2P smart contracts are **peer to peer loans**, **not investments or securities**.  
 > - There is **no guarantee of repayment** beyond the creator’s on platform earnings.  
 > - Lenders should only provide funds to creators they know and trust.  
 
+<br>
 
 ### **🏠 Rent-to-Own NFT (R2O Smart Contract)**
 
@@ -130,6 +131,59 @@ In the event of missed payments or early termination, the NFT reverts to the own
 > - Participants should perform **due diligence on all listed properties before engaging in any R2O transaction**.
 > - All legal property transfers and deed assignments are handled off-chain by verified real estate partners.
 
+<br>
+
+### **🧾 W4H NFT (Work-for-Hire Smart Contract)**
+
+The W4H NFT (Work-for-Hire Smart Contract) enables businesses, creators, and organizations to engage independent 1099-style contractors through fully automated, blockchain-secured agreements. Each contract is minted as a unique NFT representing the engagement’s terms — payment schedule, duration, and deliverables — with all funds automatically transferred on a recurring basis via smart contract logic.
+
+**1. Contract Creation**
+- A hirer initiates a Work-for-Hire agreement by creating a proposal on the platform.
+- Each proposal defines:
+  - **Contractor wallet address** (or open role posting)
+  - **Project title and description of services**
+  - **Monthly payment amount** (in USDC or supported stablecoin)
+  - **Duration** (1–24 months)
+  - **Start date and termination conditions**
+
+Upon creation, the system mints a W4H NFT containing these terms and escrows the first month’s payment to guarantee commitment.
+
+**2. Contractor Acceptance**
+- A contractor reviews and accepts the posted W4H offer.
+- Upon acceptance:
+  - **The smart contract locks the agreed terms and binds the contractor’s wallet to the W4H NFT.**
+  - **The NFT’s metadata updates to “Active.”**
+  - **Work officially begins for the specified term.**
+
+The hirer’s wallet or payment pool must maintain sufficient balance for ongoing automatic payments.
+
+**3. Smart Contract Enforcement**
+- The W4H Smart Contract automates monthly payment transfers and compliance tracking:
+  - **At each monthly interval**, the contract automatically releases the fixed payment from the hirer’s wallet (or pre-funded escrow) directly to the contractor.
+  - **All transactions** are timestamped and recorded on-chain as immutable payment proofs.
+  - **Either party may terminate** the agreement under predefined conditions (e.g., notice period, end-of-term, or breach).
+  - Upon termination, the NFT status changes to “Completed” or “Closed,” and any remaining escrowed funds are returned to the hirer.
+
+No manual invoicing or off-chain payment processing is required — all compensation flows transparently and predictably through the smart contract.
+
+**4. NFT Representation**
+- Each W4H NFT is a unique, verifiable digital contract that encapsulates:
+  - **Engagement details** (scope, start/end dates, payment rate)
+  - **Payment and transfer history** (on-chain record)
+  - **Status indicators** (Active, Paused, Completed)
+  - **Contractor and hirer wallet addresses**
+- When the contract concludes:
+  - **The NFT transitions** to a “Fulfilled” state.
+  - **The contractor can retain it** as proof of work history and verified income.
+  - **The hirer maintains it** as a record of services rendered and payments issued.
+
+### ⚠️ Important Disclaimers
+> - W4H NFTs represent **independent contractor agreements, not employment relationships.**
+> - All parties act as **separate entities, responsible for their own taxes, insurance, and legal compliance** under applicable 1099 or self-employment frameworks.
+> - The platform **automates payments and agreement tracking** but does not provide legal, tax, or employment advice.
+> - All off-chain deliverables, IP rights, and confidentiality terms should be **clearly referenced in the contract metadata or supplemental agreements.**
+
+<br>
 
 ## **Hybrid Content Delivery Network Architecture**
 
