@@ -45,11 +45,12 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 * **Instant Settlements**: Direct wallet to wallet transactions
 * Influencers and Creators can:
    * Sell subscriptions to private channels
-   * Promote affiliate products with split commissions
-   * Sell music, movies, merchandise, courses, services, and more
-* Stores and Sellers can use the platform as a Point of Sale system:
+   * Sell music, videos, merchandise, courses, services, and more
+* Stores can use the platform as a Point of Sale system:
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
+
+<br>
 
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
