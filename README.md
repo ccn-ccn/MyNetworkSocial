@@ -182,7 +182,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 > - W4H NFTs represent **independent contractor agreements, not employment relationships.**
 > - All parties act as **separate entities, responsible for their own taxes, insurance, and legal compliance** under applicable 1099 or self-employment frameworks.
 > - The platform **automates payments and agreement tracking** but does not provide legal, tax, or employment advice.
-> - All off-chain deliverables, IP rights, and confidentiality terms should be **clearly referenced in the contract metadata or supplemental agreements.**
+> - All off-chain deliverables should be **clearly referenced in the contract metadata or supplemental agreements.**
 
 <br>
 
