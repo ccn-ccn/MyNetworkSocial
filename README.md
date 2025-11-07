@@ -81,6 +81,56 @@ Creators can access **Advance NFTs** a peer to peer lending system built directl
 > - Lenders should only provide funds to creators they know and trust.  
 
 
+### **🏠 Rent-to-Own NFT (R2O Smart Contract)**
+
+The Rent-to-Own NFT (R2O Smart Contract) system enables builders, developers, or property token issuers to offer new construction homes through blockchain-backed, automated rent-to-own agreements. Each home is represented by a unique R2O NFT that encodes all contract terms — rent payments, equity accrual, and ownership transfer — enforced transparently by smart contract logic.
+
+**1. Property Listing**
+- A developer or property owner lists a new home on the platform by minting an R2O NFT that includes:
+  - **Property metadata** (address, square footage, unit ID, etc.)
+  - **Total property value** (in USDC)
+  - **Monthly rent amount**
+  - **Equity accrual percentage** (e.g. 30% of rent contributes to ownership)
+  - **Term duration** (e.g. 24–120 months)
+  - **Initial deposit** (optional)
+
+This NFT acts as the digital representation of the physical property and governs all payments and ownership transitions.
+
+**2. Tenant Agreement**
+- A tenant selects a listed property and agrees to the R2O terms directly on the platform.
+- Upon acceptance, the tenant signs the R2O smart contract and (optionally) pays an initial deposit.
+- The NFT is then locked into the R2O contract and linked to the tenant’s wallet address.
+- The tenant begins occupancy and monthly payments immediately, all handled on-chain.
+
+**3. Smart Contract Enforcement**
+- The R2O Smart Contract automatically manages all financial and ownership logic:
+  - **Monthly rent** is paid in USDC or platform-native stablecoin.
+- The contract splits each payment between:
+  - **Rent yield** → paid to property owner or investor.
+  - **Equity accrual** → credited toward the tenant’s ownership balance.
+- Ownership progress and payment history are recorded on-chain.
+- Once the tenant reaches 100% equity, the smart contract automatically transfers the R2O NFT to the tenant’s wallet, signaling full ownership.
+
+In the event of missed payments or early termination, the NFT reverts to the owner and equity may be forfeited per contract terms.
+
+**4. NFT Representation**
+- Each R2O agreement is minted and tracked as a unique R2O NFT containing:
+  - **Property and contract metadata**
+  - **Current ownership percentage**
+  - **Payment and equity history** (on-chain data or linked IPFS metadata)
+  - **Legal reference ID for the off-chain deed or LLC ownership entity**
+- These NFTs may:
+  - **Update dynamically** as rent payments are made.
+  - **Serve as digital title** once the agreement is fulfilled.
+  - **Be transferable** to the tenant at completion or back to the owner in case of default.
+
+### ⚠️ Important Disclaimers
+> - Rent-to-Own (R2O) NFTs are **blockchain-enforced property agreements**, **not traditional loans or securities**.
+> - Ownership and equity are **tied directly to the tenant’s ongoing rent payments** and compliance with contract terms.
+> - Participants should perform **due diligence on all listed properties**, developers, and agreements **before engaging in any R2O transaction**.
+> - All legal property transfers and deed assignments are handled off-chain by verified real estate partners.
+
+
 ## **Hybrid Content Delivery Network Architecture**
 
 ### **Step 1: Central Content Delivery Network**
