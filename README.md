@@ -32,7 +32,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly
-* 🎬 Filmmakers: sell or rent movies in app
+* 🎬 Filmmakers: sell movies or videos in app
 * 📚 Authors: sell digital or physical books
 * 🛍️ Retail stores: sell products with integrated delivery
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
