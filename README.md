@@ -109,7 +109,7 @@ This NFT acts as the digital representation of the physical property and governs
   - **Rent yield** → paid to property owner or investor.
   - **Equity accrual** → credited toward the tenant’s ownership balance.
 - Ownership progress and payment history are recorded on-chain.
-- Once the tenant reaches 100% equity, the smart contract automatically transfers the R2O NFT to the tenant’s wallet, signaling full ownership.
+- Once the tenant reaches 100% equity, the smart contract transfers the R2O NFT to the tenant’s wallet, signaling full ownership.
 
 In the event of missed payments or early termination, the NFT reverts to the owner and equity may be forfeited per contract terms.
 
