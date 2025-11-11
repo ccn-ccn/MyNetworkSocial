@@ -235,22 +235,19 @@ Each user's recommendations are shaped **only by their own actions**, not by agg
 * **Tip/Paid Content** - Content you've financially supported with USDC
 * **Following Accounts** - Creators you've chosen to follow
 * **Pinned Content** - Content you've pinned for later
-* **Commented Content** - Content you've engaged with through comments
-* **Shared Content** - Content you've shared with others
 * **Viewed Content** - Content you've watched and viewing duration
-* **Tags Used** - Content matching your tag preferences
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
 
 ```
-Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Commented + w5×Shared + w6×Viewed + w7×Tags) + (1-E) × w8×Popularity
+Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-E) × w5×Popularity
 ```
 
 **Where:**
 <br> `D` = Decay factor (reduces as engagement drops)
 <br> `E` = User engagement level (0-1 scale)
-<br> `w1-w8` = Signal weights (tipping gets highest weight at 0.35)
+<br> `w1-w5` = Signal weights (tipping gets highest weight at 0.35)
 
 ### Anti-Radicalization Safeguards
 
@@ -287,9 +284,9 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 We’re opening the doors for exclusive **Beta Testers** to join **MyNetwork** — The next generation of Social Media built for creators.
 
 **No ads. No exploitation. Just real connections and real crypto rewards!**
-<br><br>
+<!--<br><br>
 **💸 1 Million USDC Coin worth of $MYNW Tokens up for grabs 💸**
-<br><br>
+<br><br>-->
 **Create, Test, Earn while helping build a platform that puts creators first.**
 
 ## **Why Join the Beta?**
