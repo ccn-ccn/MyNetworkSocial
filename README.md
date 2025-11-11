@@ -132,7 +132,7 @@ In the event of missed payments or early termination, the NFT reverts to the own
 > - Participants should perform **due diligence on all listed properties before engaging in any R2O transaction**.
 > - All legal property transfers and deed assignments are handled off-chain by verified real estate partners.
 
-<br>
+---
 
 ### **🧾 W4H NFT (Work-for-Hire Smart Contract)**
 
@@ -184,7 +184,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 > - The platform **automates payments and agreement tracking** but does not provide legal, tax, or employment advice.
 > - All off-chain deliverables should be **clearly referenced in the contract metadata or supplemental agreements.**
 
-<br>
+---
 
 ## **Hybrid Content Delivery Network Architecture**
 
