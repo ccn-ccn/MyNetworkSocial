@@ -50,8 +50,6 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
 
----
-
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
 Creators can access **P2P NFTs** a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a NFT.
@@ -179,8 +177,6 @@ No manual invoicing or off-chain payment processing is required — all compensa
 > - All parties act as **separate entities, responsible for their own taxes, insurance, and legal compliance** under applicable 1099 or self-employment frameworks.
 > - The platform **automates payments and agreement tracking** but does not provide legal, tax, or employment advice.
 > - All off-chain deliverables should be **clearly referenced in the contract metadata or supplemental agreements.**
-
----
 
 ## **Hybrid Content Delivery Network Architecture**
 
