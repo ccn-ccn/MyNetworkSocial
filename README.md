@@ -50,7 +50,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
 
-<br>
+---
 
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
@@ -80,8 +80,6 @@ Creators can access **P2P NFTs** a peer to peer lending system built directly in
 > - P2P smart contracts are **peer to peer loans**, **not investments or securities**.  
 > - There is **no guarantee of repayment** beyond the creator’s on platform earnings.  
 > - Lenders should only provide funds to creators they know and trust.  
-
-<br>
 
 ### **🏠 Rent-to-Own NFT (R2O Smart Contract)**
 
@@ -131,8 +129,6 @@ In the event of missed payments or early termination, the NFT reverts to the own
 > - Ownership and equity are **tied directly to the tenant’s ongoing rent payments** and compliance with contract terms.
 > - Participants should perform **due diligence on all listed properties before engaging in any R2O transaction**.
 > - All legal property transfers and deed assignments are handled off-chain by verified real estate partners.
-
----
 
 ### **🧾 W4H NFT (Work-for-Hire Smart Contract)**
 
