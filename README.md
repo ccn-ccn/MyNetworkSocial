@@ -213,12 +213,11 @@ No manual invoicing or off-chain payment processing is required — all compensa
   * **CA$H OUT**: convert $MYNW into USDC in app
 
 ### **Wallet Integration**
-* Phantom
-* MyWallet (coming soon)
+* Circle EOA Wallet
+* Transak - fiat on/off ramp
 
 ## **🛡️ Security & Compliance**
 * **Adaptive Transaction Limits**: Email one time password for transactions above user set limit
-* **Non-Custodial**: Users maintain full control of their crypto
 * **Multi-Sig Treasury**: Platform funds secured with multi-signature wallets
 * **Full control** over moderation pipeline
 
