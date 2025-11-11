@@ -188,8 +188,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 2: Screened Content Offloaded to P2P CDN**
 
-* **Premium Users Videos**: Stay on Central CDN for performance
-* **Short Videos, Music, Photos, Docs**: After passing validation, replicated onto IPFS for P2P sharing
+* **Premium Users Content**: Stay on Central CDN for performance
+* **Videos, Music, Photos**: After passing validation, replicated onto IPFS for P2P sharing
 
 ### **Step 3: Incentivized Distribution via \$MYNW**
 
