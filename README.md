@@ -207,6 +207,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Wallet Integration**
 * Circle EOA Wallet
 * Transak - fiat on/off ramp
+* Sumsub - KYC/AML
 
 ## **🛡️ Security & Compliance**
 * **Adaptive Transaction Limits**: Email one time password for transactions above user set limit
