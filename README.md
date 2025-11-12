@@ -192,57 +192,42 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 1: Controlled Payout Budget**
 
 * **Global monthly payout cap** (e.g. **$1,000,000/month**) limits total $MYNW token rewards
-* Pool size **scales automatically with platform revenue** (subscriptions, tips, content sales)
+* Payout cap **scales with increased platform revenue** (subscriptions, tips, content sales)
 * Prevents overspending while keeping **rewards predictable and sustainable**
 
 ### **Step 2: Dynamic Seeder Assignment (DSA)**
 
 * Each video tracks:
-
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — total seeders (pinners)
-* When users pin a video, a **random subset of seeders (Nₛₑₗ)** is selected to receive token rewards each time video is viewed
+* When users pin a video, a **random subset of seeders (Nₛₑₗ)** is selected to receive token rewards each time a video is viewed
 * Randomization ensures **fair distribution** and **regional load balance** for faster delivery
 
 ### **Step 3: Fair Reward Distribution**
 
 * Each video receives a portion of the monthly reward pool based on its traffic share:
-
   ```
   Video_Share = (Bᵢ / ΣB) × Pᵢᶜᵃᵖ
   ```
 * Individual seeder rewards are proportional to the actual bandwidth they serve:
-
   ```
   Reward_User = (User_MB / Bᵢ) × Video_Share
   ```
-* **No earning caps per user** — rewards scale naturally with contribution and activity
+* **No earning caps per user** — users can earn unlimited $MYNW, rewards scale with distribution activity
 
 ### **Step 4: Payout Cap Enforcement**
 
 * Once the total monthly payout cap (**Pᵢᶜᵃᵖ**) is reached:
-
   * All further token rewards stop
   * Dynamic Seeder Assignment (DSA) is disabled
   * All users automatically become **free seeders (N𝒻ᵣₑₑ)** to maintain distribution speed
-* Content continues to stream fast — powered by **zero-cost community seeding**
 
 ### **Step 5: Auto Load Balancing**
 
 * After the payout cap is hit:
-
   * Seeder participation expands network-wide
   * High peer density keeps delivery fast and stable
   * Bandwidth burden per user drops dramatically while maintaining uptime
-
-### **✅ Benefits**
-
-* **Predictable Costs** — Total $MYNW payouts can never exceed the global monthly cap
-* **No earning caps per user** - users can earn unlimited MYNW
-* **Fairness** — Every pinner has a random chance to earn based on real contribution
-* **Sustainability** — Token economy grows only with verified platform revenue
-* **Speed** — Viral content served rapidly through DSA; after cap, free seeders take over
-* **Scalability** — Performance improves as more users pin and participate in distribution
 
 ## **Hybrid Content Delivery Network Architecture**
 
@@ -257,7 +242,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * **Premium Users Content**: Stay on Central CDN for performance
 * **Non Premium Users Content**: After passing validation, replicated onto IPFS for P2P sharing
 
-### **Step 3: Incentivized Distribution via \$MYNW**
+### **Step 3: Incentivized Distribution via $MYNW**
 
 * Users who stay online automatically distribute content pinned and earn $MYNW token rewards
 * Rewards increase with more app usage (Proof of Distribution model)
@@ -285,16 +270,12 @@ No manual invoicing or off-chain payment processing is required — all compensa
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
 Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. This means:
 
-- **No Viral Amplification**: Extreme content cannot "go viral" and pollute everyone's feed
-- **Gaming Protection**: If someone tries to game the system by mass saving content, they only affect their own recommendations
-- **Eliminates Coordinated Attacks**: Bad actors cannot boost harmful content for other users
-
 ### Recommendation Priority Hierarchy
 
 * **Tip/Paid Content** - Content you've financially supported with USDC
 * **Following Accounts** - Creators you've chosen to follow
 * **Pinned Content** - Content you've pinned for later
-* **Viewed Content** - Content you've watched and viewing duration
+* **Viewed Content** - Content you've watched
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
@@ -307,12 +288,6 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 <br> `D` = Decay factor (reduces as engagement drops)
 <br> `E` = User engagement level (0-1 scale)
 <br> `w1-w5` = Signal weights (tipping gets highest weight at 0.35)
-
-### Anti-Radicalization Safeguards
-
-- **Financial Accountability**: Users must financially commit to extreme content for it to dominate their feed
-- **Relationship First**: Heavy weighting on "Following" prioritizes trusted relationships over algorithmic suggestions  
-- **Quality Signals**: Saving and deliberate engagement indicate thoughtful consumption vs rage driven clicks
 
 ### Result
 
@@ -338,7 +313,7 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 
 ---
 
-## **🚀 Be the First to Shape the Future of Social Media**
+## **Be the First to Shape the Future of Social Media**
 
 We’re opening the doors for exclusive **Beta Testers** to join **MyNetwork** — The next generation of Social Media built for creators.
 
@@ -365,8 +340,6 @@ More than just a social media platform this is **Your network, Your rules, Your 
 <br><br>
 👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Tester and claim your share of the future. Email your name and a link to your social media account for approval.
 
-
 ---
-
 
 **Built with ❤️ for creators, powered by blockchain technology, designed for the future of social media**
