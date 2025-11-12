@@ -30,6 +30,16 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 
 ## **🎯 Key Features**
 
+### **💸 Direct Crypto Monetization**
+* **Stablecoin Payments**: USDC
+* **Instant Settlements**: Direct wallet to wallet transactions
+* Influencers and Creators can:
+   * Sell subscriptions to private channels
+   * Sell music, videos, merchandise, courses, services, and more
+* Stores can use the platform as a Point of Sale system:
+   * Create products in app with price, description, and delivery type 
+   * Track sales, manage inventory, and exchange stablecoins for local fiat
+     
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly
 * 🎬 Filmmakers: sell movies or videos in app
@@ -47,16 +57,6 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 | **Gold (Premium)**  | $50          | 25 GB/mo     | ✅ Full CDN                 | > 25 GB IPFS seeding   |
 | **Black (Star)**    | $100         | 100 GB/mo    | ✅ Full CDN + Edge Priority | > 100 GB IPFS seeding  |
   
-### **💸 Direct Crypto Monetization**
-* **Stablecoin Payments**: USDC
-* **Instant Settlements**: Direct wallet to wallet transactions
-* Influencers and Creators can:
-   * Sell subscriptions to private channels
-   * Sell music, videos, merchandise, courses, services, and more
-* Stores can use the platform as a Point of Sale system:
-   * Create products in app with price, description, and delivery type 
-   * Track sales, manage inventory, and exchange stablecoins for local fiat
-
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
 Creators can access **P2P NFTs** a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a NFT.
