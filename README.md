@@ -244,8 +244,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 3: Incentivized Distribution via $MYNW**
 
-* Users who stay online automatically distribute content pinned and earn $MYNW token rewards
-* Rewards increase with more app usage (Proof of Distribution model)
+* Online users automatically distribute pinned content and earn $MYNW token rewards
+* Rewards increase with increased app usage (Proof of Distribution model)
 * Cash out $MYNW for USDC in app
    
 ### **Supported Tokens**
