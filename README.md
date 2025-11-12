@@ -201,7 +201,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — total seeders (pinners)
-* When users pin a video, a **random subset of seeders (Nₛₑₗ)** is selected to receive token rewards
+* When users pin a video, a **random subset of seeders (Nₛₑₗ)** is selected to receive token rewards each time video is viewed
 * Randomization ensures **fair distribution** and **regional load balance** for faster delivery
 
 ### **Step 3: Fair Reward Distribution**
