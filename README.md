@@ -138,7 +138,7 @@ The W4H NFT (Work-for-Hire Smart Contract) enables businesses, creators, and org
   - **Contractor wallet address** (or open role posting)
   - **Project title and description of services**
   - **Monthly payment amount** (in USDC or supported stablecoin)
-  - **Duration** (1–24 months)
+  - **Duration** (1–48 months)
   - **Start date and termination conditions**
 
 Upon creation, the system mints a W4H NFT containing these terms and escrows the first month’s payment to guarantee commitment.
