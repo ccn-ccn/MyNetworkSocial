@@ -178,6 +178,64 @@ No manual invoicing or off-chain payment processing is required — all compensa
 > - The platform **automates payments and agreement tracking** but does not provide legal, tax, or employment advice.
 > - All off-chain deliverables should be **clearly referenced in the contract metadata or supplemental agreements.**
 
+---
+
+## **Tokenized Distribution Model**
+
+### **Step 1: Controlled Payout Budget**
+
+* **Global monthly payout cap** (e.g. **$1,000,000/month**) limits total $MYNW token rewards
+* Pool size **scales automatically with platform revenue** (subscriptions, tips, content sales)
+* Prevents overspending while keeping **rewards predictable and sustainable**
+
+### **Step 2: Dynamic Seeder Assignment (DSA)**
+
+* Each video tracks:
+
+  * **Bᵢ** — total bandwidth served
+  * **Sᵢ** — total seeders (pinners)
+* When users pin a video, a **random subset of seeders (Nₛₑₗ)** is selected to receive token rewards
+* Randomization ensures **fair distribution** and **regional load balance** for faster delivery
+
+### **Step 3: Fair Reward Distribution**
+
+* Each video receives a portion of the monthly reward pool based on its traffic share:
+
+  ```
+  Video_Share = (Bᵢ / ΣB) × Pᵢᶜᵃᵖ
+  ```
+* Individual seeder rewards are proportional to the actual bandwidth they serve:
+
+  ```
+  Reward_User = (User_MB / Bᵢ) × Video_Share
+  ```
+* **No earning caps per user** — rewards scale naturally with contribution and activity
+
+### **Step 4: Payout Cap Enforcement**
+
+* Once the total monthly payout cap (**Pᵢᶜᵃᵖ**) is reached:
+
+  * All further token rewards stop
+  * Dynamic Seeder Assignment (DSA) is disabled
+  * All users automatically become **free seeders (N𝒻ᵣₑₑ)** to maintain distribution speed
+* Content continues to stream fast — powered by **zero-cost community seeding**
+
+### **Step 5: Auto Load Balancing**
+
+* After the payout cap is hit:
+
+  * Seeder participation expands network-wide
+  * High peer density keeps delivery fast and stable
+  * Bandwidth burden per user drops dramatically while maintaining uptime
+
+### **✅ Benefits**
+
+* **Predictable Costs** — Total $MYNW payouts can never exceed the global monthly cap
+* **Fairness** — Every pinner has a random chance to earn based on real contribution
+* **Sustainability** — Token economy grows only with verified platform revenue
+* **Speed** — Viral content served rapidly through DSA; after cap, free seeders take over
+* **Scalability** — Performance improves as more users pin and participate in distribution
+
 ## **Hybrid Content Delivery Network Architecture**
 
 ### **Step 1: Central Content Delivery Network**
