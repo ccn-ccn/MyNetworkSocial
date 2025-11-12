@@ -89,7 +89,7 @@ The Rent-to-Own NFT (R2O Smart Contract) system enables builders, developers, or
   - **Total property value** (in USDC)
   - **Monthly rent amount**
   - **Equity accrual percentage** (e.g. 30% of rent contributes to ownership)
-  - **Term duration** (e.g. 24–120 months)
+  - **Term duration** (e.g. 24–240 months)
   - **Initial deposit** (optional)
 
 This NFT acts as the digital representation of the physical property and governs all payments and ownership transitions.
