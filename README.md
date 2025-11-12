@@ -238,6 +238,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **✅ Benefits**
 
 * **Predictable Costs** — Total $MYNW payouts can never exceed the global monthly cap
+* **No earning caps per user** - users can earn unlimited MYNW
 * **Fairness** — Every pinner has a random chance to earn based on real contribution
 * **Sustainability** — Token economy grows only with verified platform revenue
 * **Speed** — Viral content served rapidly through DSA; after cap, free seeders take over
