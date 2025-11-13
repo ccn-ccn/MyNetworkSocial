@@ -28,7 +28,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 | ![9](https://github.com/user-attachments/assets/6717310d-a52a-42de-a812-ba0b495e4f51) | ![10](https://github.com/user-attachments/assets/375377b8-a37e-4d2c-8ddc-a6b557f75d3a) | ![11](https://github.com/user-attachments/assets/4c87cbce-4278-46a1-94f5-c4714e756e1a) | ![12](https://github.com/user-attachments/assets/52965b34-3acb-41d4-9662-351f00ba4861) |
 | ![13](https://github.com/user-attachments/assets/00971edc-a2c1-4e41-a205-7f93da19d06e) | ![14](https://github.com/user-attachments/assets/9330e8cd-1f78-4232-bce3-ab31c256dec7) | ![15](https://github.com/user-attachments/assets/d9a79e57-ec15-487e-bbc8-e6072bada1a2) | ![16](https://github.com/user-attachments/assets/251d43e9-1595-4345-992c-14701a7b1408) |
 
-## **🎯 Key Features**
+## **Key Features**
 
 ### **💸 Direct Crypto Monetization**
 * **Stablecoin Payments**: USDC
