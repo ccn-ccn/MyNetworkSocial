@@ -59,60 +59,53 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
   
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
-Creators can access **P2P NFTs** a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their **on platform earnings**, secured by a smart contract and represented as a NFT.
+The Peer-to-Peer NFT (P2P Smart Contract) is a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their on platform earnings, secured by a smart contract and represented as a NFT.
 
 **1. Loan Proposal**  
-- A lender creates a loan request with terms such as:  
-  - **Principal amount** (in USDC)  
-  - **Revenue share percentage** (e.g. 25% of all on platform earnings)  
-  - **Duration** (1 - 36 months)  
+- A lender creates a loan request with terms:  
+  - Principal amount (in USDC)  
+  - Revenue share percentage (e.g. 25% of all platform earnings)  
+  - Duration (1 - 36 months)  
 
 **2. Creator Acceptance**  
-- The tagged creator can review the terms and choose to accept or reject.  
+- The receiving creator can review the terms and accept or reject.  
 - If accepted, the funds are transferred to the creator’s wallet.  
 
 **3. Smart Contract Enforcement**  
 - All of the creator’s on platform earnings flow through the smart contract.  
 - The contract automatically diverts the agreed percentage to the lender’s wallet.  
-- No manual repayment required, enforced by smart contract code.  
-
-**4. NFT Representation**  
-- Each loan agreement is minted as a unique **P2P NFT**.  
-- The NFT contains the loan terms and repayment rights.  
-- Lenders may hold the NFT until the contract matures.  
+- No manual repayment required, enforced by smart contract code.    
 
 ### ⚠️ Important Disclaimers
-> - P2P smart contracts are **peer to peer loans**, **not investments or securities**.  
+> - P2P smart contracts are **peer to peer loans, not investments or securities**.  
 > - There is **no guarantee of repayment** beyond the creator’s on platform earnings.  
 > - Lenders should only provide funds to creators they know and trust.  
 
 ### **🏠 Rent-to-Own NFT (R2O Smart Contract)**
 
-The Rent-to-Own NFT (R2O Smart Contract) system enables builders, developers, or property token issuers to offer new construction homes through blockchain-backed, automated rent-to-own agreements. Each home is represented by a unique R2O NFT that encodes all contract terms — rent payments, equity accrual, and ownership transfer — enforced transparently by smart contract logic.
+The Rent-to-Own NFT (R2O Smart Contract) system enables builders, developers, or property token issuers to offer homes through blockchain-backed, automated rent-to-own agreements. Each home is represented by a unique R2O NFT that encodes all contract terms — rent payments, equity accrual, and ownership transfer — enforced transparently by smart contract logic.
 
 **1. Property Listing**
-- A developer or property owner lists a new home on the platform by minting an R2O NFT that includes:
-  - **Property metadata** (address, square footage, unit ID, etc.)
-  - **Total property value** (in USDC)
-  - **Monthly rent amount**
-  - **Equity accrual percentage** (e.g. 30% of rent contributes to ownership)
-  - **Term duration** (e.g. 24–240 months)
-  - **Initial deposit** (optional)
-
+- A property owner lists a new home on the platform by minting an R2O NFT that includes:
+  - Property metadata (address, square footage, unit ID, etc.)
+  - Total property value
+  - Monthly rent amount
+  - Equity accrual percentage (e.g. 30% of rent contributes to ownership)
+  - Term duration (e.g. 24–240 months)
+  
 This NFT acts as the digital representation of the physical property and governs all payments and ownership transitions.
 
 **2. Tenant Agreement**
 - A tenant selects a listed property and agrees to the R2O terms directly on the platform.
-- Upon acceptance, the tenant signs the R2O smart contract and (optionally) pays an initial deposit.
 - The NFT is then locked into the R2O contract and linked to the tenant’s wallet address.
 - The tenant begins occupancy and monthly payments immediately, all handled on-chain.
 
 **3. Smart Contract Enforcement**
 - The R2O Smart Contract automatically manages all financial and ownership logic:
-  - **Monthly rent** is paid in USDC or platform-native stablecoin.
+  - Monthly rent is paid in platform-native stablecoin.
 - The contract splits each payment between:
-  - **Rent yield** → paid to property owner or investor.
-  - **Equity accrual** → credited toward the tenant’s ownership balance.
+  - Rent yield → paid to property owner or investor.
+  - Equity accrual → credited toward the tenant’s ownership balance.
 - Ownership progress and payment history are recorded on-chain.
 - Once the tenant reaches 100% equity, the smart contract transfers the R2O NFT to the tenant’s wallet, signaling full ownership.
 
@@ -120,70 +113,61 @@ In the event of missed payments or early termination, the NFT reverts to the own
 
 **4. NFT Representation**
 - Each R2O agreement is minted and tracked as a unique R2O NFT containing:
-  - **Property and contract metadata**
-  - **Current ownership percentage**
-  - **Payment and equity history** (on-chain data or linked IPFS metadata)
-  - **Legal reference ID for the off-chain deed or LLC ownership entity**
+  - Property and contract metadata
+  - Current ownership percentage
+  - Payment and equity history (linked IPFS metadata)
+  - Legal reference ID for the off-chain deed or LLC ownership entity
 - These NFTs may:
-  - **Update dynamically** as rent payments are made.
-  - **Serve as digital title** once the agreement is fulfilled.
-  - **Be transferable** to the tenant at completion or back to the owner in case of default.
+  - Update dynamically as rent payments are made.
+  - Serve as digital title once the agreement is fulfilled.
+  - Be transferable to the tenant at completion or back to the owner in case of default.
 
 ### ⚠️ Important Disclaimers
-> - Rent-to-Own (R2O) NFTs are **blockchain-enforced property agreements**, **not traditional loans or securities**.
+> - Rent-to-Own (R2O) NFTs are **blockchain-enforced property agreements, not traditional loans or securities**.
 > - Ownership and equity are **tied directly to the tenant’s ongoing rent payments** and compliance with contract terms.
 > - Participants should perform **due diligence on all listed properties before engaging in any R2O transaction**.
 > - All legal property transfers and deed assignments are handled off-chain by verified real estate partners.
 
 ### **🧾 W4H NFT (Work-for-Hire Smart Contract)**
 
-The W4H NFT (Work-for-Hire Smart Contract) enables businesses, creators, and organizations to engage independent 1099-style contractors through fully automated, blockchain-secured agreements. Each contract is minted as a unique NFT representing the engagement’s terms — payment schedule, duration, and deliverables — with all funds automatically transferred on a recurring basis via smart contract logic.
+The W4H NFT (Work-for-Hire Smart Contract) enables businesses, creators, and organizations to engage independent 1099 contractors through fully automated, blockchain-secured agreements. Each contract is minted as a unique NFT representing the engagement’s terms — payment schedule, duration, and deliverables — with all funds automatically transferred on a recurring basis via smart contract logic.
 
 **1. Contract Creation**
-- A hirer initiates a Work-for-Hire agreement by creating a proposal on the platform.
+- An employer initiates a Work-for-Hire agreement by creating a proposal on the platform.
 - Each proposal defines:
-  - **Contractor wallet address** (or open role posting)
-  - **Project title and description of services**
-  - **Monthly payment amount** (in USDC or supported stablecoin)
-  - **Duration** (1–48 months)
-  - **Start date and termination conditions**
-
-Upon creation, the system mints a W4H NFT containing these terms and escrows the first month’s payment to guarantee commitment.
+  - Open role posting
+  - Project title and description of services
+  - Monthly payment amount
+  - Duration (1–48 months)
+  - Start date and termination conditions
 
 **2. Contractor Acceptance**
 - A contractor reviews and accepts the posted W4H offer.
 - Upon acceptance:
-  - **The smart contract locks the agreed terms and binds the contractor’s wallet to the W4H NFT.**
-  - **The NFT’s metadata updates to “Active.”**
-  - **Work officially begins for the specified term.**
+  - The smart contract locks the agreed terms and binds the contractor’s wallet to the W4H NFT.
+  - Work officially begins for the specified term.
 
-The hirer’s wallet or payment pool must maintain sufficient balance for ongoing automatic payments.
+The employers wallet must maintain sufficient balance for ongoing automatic payments.
 
 **3. Smart Contract Enforcement**
 - The W4H Smart Contract automates monthly payment transfers and compliance tracking:
-  - **At each monthly interval**, the contract automatically releases the fixed payment from the hirer’s wallet (or pre-funded escrow) directly to the contractor.
-  - **All transactions** are timestamped and recorded on-chain as immutable payment proofs.
-  - **Either party may terminate** the agreement under predefined conditions (e.g., notice period, end-of-term, or breach).
-  - Upon termination, the NFT status changes to “Completed” or “Closed,” and any remaining escrowed funds are returned to the hirer.
-
-No manual invoicing or off-chain payment processing is required — all compensation flows transparently and predictably through the smart contract.
+  - At the fist of each month the smare contract transfers the payment from the employer’s wallet directly to the contractor's wallet.
+  - All transactions are recorded on-chain as immutable payment proofs.
+  - Either party may terminate the agreement under predefined conditions (end-of-term or breach).
+  
+No manual invoicing or off-chain payment processing is required — all compensation flows through the smart contract.
 
 **4. NFT Representation**
 - Each W4H NFT is a unique, verifiable digital contract that encapsulates:
-  - **Engagement details** (scope, start/end dates, payment rate)
-  - **Payment and transfer history** (on-chain record)
-  - **Status indicators** (Active, Paused, Completed)
-  - **Contractor and hirer wallet addresses**
-- When the contract concludes:
-  - **The NFT transitions** to a “Fulfilled” state.
-  - **The contractor can retain it** as proof of work history and verified income.
-  - **The hirer maintains it** as a record of services rendered and payments issued.
+  - Engagement details (scope, start/end dates, payment rate)
+  - Payment history (on-chain record)
+  - Contractor and employer wallet addresses
 
 ### ⚠️ Important Disclaimers
 > - W4H NFTs represent **independent contractor agreements, not employment relationships.**
-> - All parties act as **separate entities, responsible for their own taxes, insurance, and legal compliance** under applicable 1099 or self-employment frameworks.
+> - All parties act as **separate entities, responsible for their own taxes and insurance** under applicable self-employment frameworks.
 > - The platform **automates payments and agreement tracking** but does not provide legal, tax, or employment advice.
-> - All off-chain deliverables should be **clearly referenced in the contract metadata or supplemental agreements.**
+> - All off-chain deliverables should be **clearly referenced in the contract metadata and attached supplemental agreements.**
 
 ---
 
