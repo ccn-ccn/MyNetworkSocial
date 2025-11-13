@@ -338,7 +338,7 @@ Create → Search → Pin → Earn → Repeat.
 <br>
 More than just a social media platform this is **Your network, Your rules, Your money!**
 <br><br>
-👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Tester and claim your share of the future. Email your name and a link to your social media account for approval.
+👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Tester and claim your share of the future. Send a link to your social media account for approval.
 
 ---
 
