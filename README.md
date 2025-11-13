@@ -33,7 +33,7 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 ### **💸 Direct Crypto Monetization**
 * **Stablecoin Payments**: USDC
 * **Instant Settlements**: Direct wallet to wallet transactions
-* Influencers and Creators can:
+* Creators can:
    * Sell subscriptions to private channels
    * Sell music, videos, merchandise, courses, services, and more
 * Sellers can use the platform as a Point of Sale system:
