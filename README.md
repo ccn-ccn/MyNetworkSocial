@@ -252,7 +252,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### Recommendation Algorithm
 
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
-Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. This means:
+Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. 
 
 ### Recommendation Priority Hierarchy
 
