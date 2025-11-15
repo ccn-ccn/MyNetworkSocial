@@ -52,10 +52,10 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 
 | Tier                | Monthly Cost | Upload Limit | CDN Access                 | IPFS Role              |
 | ------------------- | ------------ | ------------ | -------------------------- | ---------------------- |
-| **Free**            | $0           | 1 GB/mo      | ❌ (IPFS only)              | Full IPFS seeding      |
-| **Blue (Verified)** | $20          | 10 GB/mo     | ✅ Partial CDN              | > 5 GB IPFS seeding    |
-| **Gold (Premium)**  | $50          | 25 GB/mo     | ✅ Full CDN                 | > 25 GB IPFS seeding   |
-| **Black (Star)**    | $100         | 100 GB/mo    | ✅ Full CDN + Edge Priority | > 100 GB IPFS seeding  |
+| **Free**            | $0           | 5 GB         | ❌ (IPFS only)             | Full IPFS seeding      |
+| **Blue (Verified)** | $20          | 100 GB       | ✅ Partial CDN             | > 100 GB IPFS seeding  |
+| **Gold (Premium)**  | $50          | 250 GB       | ✅ Full CDN                | > 250 GB IPFS seeding  |
+| **Black (Star)**    | $100         | 1 TB         | ✅ Full CDN/Edge Priority  | > 1 TB IPFS seeding    |
   
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
