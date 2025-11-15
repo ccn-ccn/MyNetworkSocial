@@ -244,11 +244,6 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Transak - fiat on/off ramp
 * Sumsub - KYC/AML
 
-## **🛡️ Security & Compliance**
-* **Adaptive Transaction Limits**: Email one time password for transactions above user set limit
-* **Multi-Sig Treasury**: Platform funds secured with multi-signature wallets
-* **Full control** over moderation pipeline
-
 ### Recommendation Algorithm
 
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
