@@ -48,7 +48,8 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
 * 🤣 Comedians: charge for video clips or subscription to exclusive content
 * 👗 Models: sell exclusive content or subscription based fan experiences
-* Premium Accounts: tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
+
+Premium Accounts: tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
 
 | Tier                | Monthly Cost | Upload Limit | CDN Access                 | IPFS Role              |
 | ------------------- | ------------ | ------------ | -------------------------- | ---------------------- |
