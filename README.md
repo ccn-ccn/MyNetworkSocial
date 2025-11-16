@@ -48,14 +48,14 @@ MyNetwork is a creator centric social media platform that blends the immersive, 
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
 * 🤣 Comedians: charge for video clips or subscription to exclusive content
 * 👗 Models: sell exclusive content or subscription based fan experiences
-* Premium Accounts (Blue, Gold, Black Checks): tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
+* Premium Accounts: tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
 
 | Tier                | Monthly Cost | Upload Limit | CDN Access                 | IPFS Role              |
 | ------------------- | ------------ | ------------ | -------------------------- | ---------------------- |
 | **Free**            | $0           | 25 GB        | ❌ (IPFS only)             | Full IPFS seeding      |
-| **Blue (Verified)** | $20          | 100 GB       | ✅ Partial CDN             | > 50 GB IPFS seeding   |
-| **Gold (Premium)**  | $50          | 250 GB       | ✅ Full CDN                | > 250 GB IPFS seeding  |
-| **Black (Star)**    | $100         | 1 TB         | ✅ Full CDN/Edge Priority  | > 1 TB IPFS seeding    |
+| **Blue Check**      | $20          | 100 GB       | ✅ Partial CDN             | > 50 GB IPFS seeding   |
+| **Gold Check**      | $50          | 250 GB       | ✅ Full CDN                | > 250 GB IPFS seeding  |
+| **Black Check**     | $100         | 1 TB         | ✅ Full CDN/Edge Priority  | > 1 TB IPFS seeding    |
   
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
