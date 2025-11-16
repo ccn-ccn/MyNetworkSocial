@@ -77,8 +77,8 @@ The Peer-to-Peer NFT (P2P Smart Contract) is a peer to peer lending system built
 - No manual repayment required, enforced by smart contract code.    
 
 ### ⚠️ Important Disclaimers
-> - P2P smart contracts are **peer to peer loans, not investments or securities**.  
-> - There is **no guarantee of repayment** beyond the creator’s on platform earnings.  
+> - P2P smart contracts are peer to peer loans, not investments or securities.  
+> - There is no guarantee of repayment beyond the creator’s on platform earnings.  
 > - Lenders should only provide funds to creators they know and trust.  
 
 ### **🏠 Rent-to-Own NFT (R2O Smart Contract)**
@@ -123,9 +123,9 @@ In the event of missed payments or early termination, the NFT reverts to the own
   - Be transferable to the tenant at completion or back to the owner in case of default.
 
 ### ⚠️ Important Disclaimers
-> - Rent-to-Own (R2O) NFTs are **blockchain-enforced property agreements, not traditional loans or securities**.
-> - Ownership and equity are **tied directly to the tenant’s ongoing rent payments** and compliance with contract terms.
-> - Participants should perform **due diligence on all listed properties before engaging in any R2O transaction**.
+> - Rent-to-Own (R2O) NFTs are blockchain-enforced property agreements, not traditional loans or securities.
+> - Ownership and equity are tied directly to the tenant’s ongoing rent payments and compliance with contract terms.
+> - Participants should perform due diligence on all listed properties before engaging in any R2O transaction.
 > - All legal property transfers and deed assignments are handled off-chain by verified real estate partners.
 
 ### **🧾 W4H NFT (Work-for-Hire Smart Contract)**
@@ -164,10 +164,10 @@ No manual invoicing or off-chain payment processing is required — all compensa
   - Contractor and employer wallet addresses
 
 ### ⚠️ Important Disclaimers
-> - W4H NFTs represent **independent contractor agreements, not employment relationships.**
-> - All parties act as **separate entities, responsible for their own taxes and insurance** under applicable self-employment frameworks.
-> - The platform **automates payments and agreement tracking** but does not provide legal, tax, or employment advice.
-> - All off-chain deliverables should be **clearly referenced in the contract metadata and attached agreements.**
+> - W4H NFTs represent independent contractor agreements, not employment relationships.
+> - All parties act as separate entities, responsible for their own taxes and insurance under applicable self-employment frameworks.
+> - The platform automates payments and agreement tracking but does not provide legal, tax, or employment advice.
+> - All off-chain deliverables should be clearly referenced in the contract metadata and attached agreements.
 
 ---
 
@@ -181,8 +181,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 2: Screened Content Offloaded to P2P CDN**
 
-* **Premium Users Content**: Stay on Central CDN for performance
-* **Non Premium Users Content**: After passing validation, replicated onto IPFS for P2P sharing
+* Premium Users Content: Stay on Central CDN for performance
+* Non Premium Users Content: After passing validation, replicated onto IPFS for P2P sharing
 
 ### **Step 3: Incentivized Distribution via $MYNW**
 
@@ -194,17 +194,17 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 1: Controlled Payout Budget**
 
-* **Global monthly payout cap** (e.g. **$1,000,000/month**) limits total $MYNW token rewards
-* Payout cap **scales with increased platform revenue** (subscriptions, tips, content sales)
-* Prevents overspending while keeping **rewards predictable and sustainable**
+* Global monthly payout cap (e.g. $1,000,000/month) limits total $MYNW token rewards
+* Payout cap scales with increased platform revenue (subscriptions, tips, content sales)
+* Prevents overspending while keeping rewards predictable and sustainable
 
 ### **Step 2: Dynamic Seeder Assignment (DSA)**
 
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — total seeders (pinners)
-* When users pin a video, a **random subset of seeders (Nₛₑₗ)** is selected to receive token rewards each time a video is viewed
-* Randomization ensures **fair distribution** and **regional load balance** for faster delivery
+* When users pin a video, a random subset of seeders (Nₛₑₗ) is selected to receive token rewards each time a video is viewed
+* Randomization ensures fair distribution and regional load balance for faster delivery
 
 ### **Step 3: Fair Reward Distribution**
 
@@ -216,14 +216,14 @@ No manual invoicing or off-chain payment processing is required — all compensa
   ```
   Reward_User = (User_MB / Bᵢ) × Video_Share
   ```
-* **No earning caps per user** — users can earn unlimited $MYNW, rewards scale with distribution activity
+* No earning caps per user — users can earn unlimited $MYNW, rewards scale with distribution activity
 
 ### **Step 4: Payout Cap Enforcement**
 
 * Once the total monthly payout cap (**Pᵢᶜᵃᵖ**) is reached:
   * All further token rewards stop
   * Dynamic Seeder Assignment (DSA) is disabled
-  * All users automatically become **free seeders (N𝒻ᵣₑₑ)** to maintain distribution speed
+  * All users automatically become free seeders (N𝒻ᵣₑₑ) to maintain distribution speed
 
 ### **Step 5: Auto Load Balancing**
 
@@ -235,7 +235,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ## **Recommendation Algorithm**
 
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
-Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. 
+Each user's recommendations are shaped only by their own actions, not by aggregated network popularity. 
 
 ### Recommendation Priority Hierarchy
 
