@@ -184,11 +184,11 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Premium Users Content: Stay on Central CDN for performance
 * Non Premium Users Content: After passing validation, replicated onto IPFS for P2P sharing
 
-### **Step 3: Incentivized Distribution via $MYNW**
+### **Step 3: Incentivized Distribution via MYNW Tokens**
 
-* Online users automatically distribute pinned content and earn $MYNW token rewards
+* Online users automatically distribute pinned content and earn MYNW token rewards
 * Rewards increase with increased app usage (Proof of Distribution model)
-* Cash out $MYNW for USDC in app
+* Cash out MYNW for USDC in app
    
 ## **Tokenized Distribution Model**
 
@@ -281,9 +281,9 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 ### **Supported Tokens**
 * **Solana**: High speed, Low fees
 * **Stablecoins**: USDC
-* **Platform Token**: $MYNW (rewards)
+* **Platform Token**: MYNW (rewards)
   * Earned by supporting the network through pinning content and staying online to redistribute it
-  * **CA$H OUT**: convert $MYNW into USDC in app
+  * **CA$H OUT**: convert MYNW into USDC in app
 
 ### **Wallet Integration**
 * Circle EOA Wallet
@@ -298,7 +298,7 @@ We’re opening the doors for exclusive **Beta Testers** to join **MyNetwork** �
 
 **No ads. No exploitation. Just real connections and real crypto rewards!**
 <br><br>
-**💸 1 Million USDC Coin worth of $MYNW Tokens up for grabs 💸**
+**💸 1 Million USDC Coin worth of MYNW Tokens up for grabs 💸**
 <br><br>
 **Create, Test, Earn while helping build a platform that puts creators first.**
 
@@ -317,7 +317,7 @@ Create → Search → Pin → Earn → Repeat.
 <br>
 More than just a social media platform this is **Your network, Your rules, Your money!**
 <br><br>
-👉 [**Apply now**](mailto:g7485987384@gmail.com) to become a Beta Tester and claim your share of the future. Send a link to your social media account for approval.
+👉 [**Apply now**](mailto:contact@mynetworksocial.com) to become a Beta Tester and claim your share of the future. Send a link to your social media account for approval.
 
 ---
 
