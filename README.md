@@ -1,8 +1,8 @@
 # **✨MyNetwork✨**
-**A next generation social media platform built for creators, powered by fairness, and designed to protect user privacy. No ads. No exploitation. Just real connections and real opportunities!**
+A next generation social media platform built for creators, powered by fairness, and designed to protect user privacy. No ads. No exploitation. Just real connections and real opportunities!
 
 ## **Overview**
-**MyNetwork is a creator centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments.** 
+MyNetwork is a creator centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon and Instagram without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments.
 
 ## 🌐 Web View
 
@@ -31,8 +31,8 @@
 ## **Key Features**
 
 ### **💸 Direct Crypto Monetization**
-* **Stablecoin Payments**: USDC
-* **Instant Settlements**: Direct wallet to wallet transactions
+* Stablecoin Payments: USDC
+* Instant Settlements: Direct wallet to wallet transactions
 * Creators can:
    * Sell subscriptions to private channels
    * Sell music, videos, merchandise, subscriptions, and more
@@ -48,7 +48,7 @@
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
 * 🤣 Comedians: charge for video clips or subscription to exclusive content
 * 👗 Models: sell exclusive content or subscription based fan experiences
-* **Verified & Premium Accounts (Blue, Gold, Black Checks)**: tiered SaaS subscriptions with enhanced upload limits, CDN delivery, and platform visibility based on account level
+* Verified & Premium Accounts (Blue, Gold, Black Checks): tiered SaaS subscriptions with enhanced upload limits, CDN delivery, and platform visibility based on account level
 
 | Tier                | Monthly Cost | Upload Limit | CDN Access                 | IPFS Role              |
 | ------------------- | ------------ | ------------ | -------------------------- | ---------------------- |
