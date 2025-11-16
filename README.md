@@ -171,6 +171,25 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ---
 
+## **Hybrid Content Delivery Network Architecture**
+
+### **Step 1: Central Content Delivery Network**
+
+* All uploads start on the Central CDN for speed and moderation
+* Automated checks ensure compliance before distribution
+* Ability to remove harmful or illegal content
+
+### **Step 2: Screened Content Offloaded to P2P CDN**
+
+* **Premium Users Content**: Stay on Central CDN for performance
+* **Non Premium Users Content**: After passing validation, replicated onto IPFS for P2P sharing
+
+### **Step 3: Incentivized Distribution via $MYNW**
+
+* Online users automatically distribute pinned content and earn $MYNW token rewards
+* Rewards increase with increased app usage (Proof of Distribution model)
+* Cash out $MYNW for USDC in app
+   
 ## **Tokenized Distribution Model**
 
 ### **Step 1: Controlled Payout Budget**
@@ -213,38 +232,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
   * High peer density keeps delivery fast and stable
   * Bandwidth burden per user drops dramatically while maintaining uptime
 
-## **Hybrid Content Delivery Network Architecture**
-
-### **Step 1: Central Content Delivery Network**
-
-* All uploads start on the Central CDN for speed and moderation
-* Automated checks ensure compliance before distribution
-* Ability to remove harmful or illegal content
-
-### **Step 2: Screened Content Offloaded to P2P CDN**
-
-* **Premium Users Content**: Stay on Central CDN for performance
-* **Non Premium Users Content**: After passing validation, replicated onto IPFS for P2P sharing
-
-### **Step 3: Incentivized Distribution via $MYNW**
-
-* Online users automatically distribute pinned content and earn $MYNW token rewards
-* Rewards increase with increased app usage (Proof of Distribution model)
-* Cash out $MYNW for USDC in app
-   
-### **Supported Tokens**
-* **Solana**: High speed, Low fees
-* **Stablecoins**: USDC
-* **Platform Token**: $MYNW (rewards)
-  * Earned by supporting the network through pinning content and staying online to redistribute it
-  * **CA$H OUT**: convert $MYNW into USDC in app
-
-### **Wallet Integration**
-* Circle EOA Wallet
-* Transak - fiat on/off ramp
-* Sumsub - KYC/AML
-
-### Recommendation Algorithm
+## **Recommendation Algorithm**
 
 MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
 Each user's recommendations are shaped **only by their own actions**, not by aggregated network popularity. 
@@ -290,6 +278,18 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime
 
+### **Supported Tokens**
+* **Solana**: High speed, Low fees
+* **Stablecoins**: USDC
+* **Platform Token**: $MYNW (rewards)
+  * Earned by supporting the network through pinning content and staying online to redistribute it
+  * **CA$H OUT**: convert $MYNW into USDC in app
+
+### **Wallet Integration**
+* Circle EOA Wallet
+* Transak - fiat on/off ramp
+* Sumsub - KYC/AML
+  
 ---
 
 ## **Be the First to Shape the Future of Social Media**
