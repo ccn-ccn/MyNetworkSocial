@@ -306,7 +306,6 @@ Create, Test, Earn while helping build a platform that puts creators first.
 * Earn crypto while you post, view, and save content.<br>
 * Be part of the Proof of Distribution economy — the more active you are, the more you earn.
 
-## **Flow:**
 Create → Search → Pin → Earn → Repeat.
 
 **🌐 Go MyNetwork**<br>
