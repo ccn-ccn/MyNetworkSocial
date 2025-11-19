@@ -296,7 +296,7 @@ We’re opening the doors for exclusive **Beta Testers** to join MyNetwork — T
 
 No ads. No exploitation. Just real connections and real crypto rewards!
 <br><br>
-**💸 1 Million USDC Coin worth of MYNW Tokens up for grabs 💸**
+**💸 $1 Million worth of MYNW Tokens up for grabs 💸**
 <br><br>
 Create, Test, Earn while helping build a platform that puts creators first.
 
