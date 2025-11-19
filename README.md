@@ -1,4 +1,4 @@
-# **✨MyNetwork✨**
+# **MyNetwork**
 A next generation social media platform built for creators, powered by fairness, and designed to protect user privacy. No ads. No exploitation. Just real connections and real opportunities! MyNetwork is a creator centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments.
 
 ## 🌐 Web View
@@ -261,17 +261,17 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 
 ## **🛠️ Tech Stack**
 
-### **🌐 Cloud Services & Delivery**
+### **Cloud Services & Delivery**
 * **IBM Cloud Databases for MongoDB** → Flexible database for user accounts, profiles, and app metadata.
 * **IBM Cloud Object Storage** → Secure, scalable storage for all uploads.
 * **Cloudflare CDN** → Global edge delivery for videos, livestreams, and static assets.
 * **Hybrid Flow**: Uploads land in IBM storage, served via Cloudflare for low-latency delivery.
 
-### **🤖 AI Moderation & Compliance**
+### **AI Moderation & Compliance**
 * **IBM Watson AI** → Automated content moderation (image/video/audio/NLP analysis) to block impersonation, deepfakes, and unsafe content.
 * **Human-in-the-Loop Moderation** → Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
 
-### **🔗 Decentralized Distribution**
+### **Decentralized Distribution**
 * **IPFS (InterPlanetary File System)** → P2P content replication for downloads
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime
