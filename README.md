@@ -28,7 +28,7 @@ A next generation social media platform built for creators, powered by fairness,
 ## **Key Features**
 
 ### **💸 Direct Crypto Monetization**
-* Stablecoin Payments: USDC
+* Stablecoin Payments
 * Instant Settlements: Direct wallet to wallet transactions
 * Creators can:
    * Sell subscriptions to private channels
