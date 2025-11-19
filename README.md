@@ -61,7 +61,7 @@ The Peer-to-Peer NFT (P2P Smart Contract) is a peer to peer lending system built
 
 **1. Loan Proposal**  
 - A lender creates a loan request with terms:  
-  - Principal amount (in USDC)  
+  - Principal amount
   - Revenue share percentage (e.g. 25% of all platform earnings)  
   - Duration (1 - 36 months)  
 
@@ -136,7 +136,7 @@ The W4H NFT (Work-for-Hire Smart Contract) enables businesses, creators, and org
   - Open role posting
   - Project title and description of services
   - Monthly payment amount
-  - Duration (1–48 months)
+  - Duration (1–60 months)
   - Start date and termination conditions
 
 **2. Contractor Acceptance**
@@ -186,7 +186,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 * Online users automatically distribute pinned content and earn MYNW token rewards
 * Rewards increase with increased app usage (Proof of Distribution model)
-* Cash out MYNW for USDC in app
+* Cash out MYNW for stablecoins in app
    
 ## **Tokenized Distribution Model**
 
