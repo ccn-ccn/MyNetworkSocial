@@ -237,7 +237,7 @@ Each user's recommendations are shaped only by their own actions, not by aggrega
 
 ### Recommendation Priority Hierarchy
 
-* **Tip/Paid Content** - Content you've financially supported with USDC
+* **Tip/Paid Content** - Content you've financially supported
 * **Following Accounts** - Creators you've chosen to follow
 * **Pinned Content** - Content you've pinned for later
 * **Viewed Content** - Content you've watched
@@ -277,11 +277,11 @@ MyNetwork's algorithm represents a fundamental shift from engagement-driven to i
 * **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime
 
 ### **Supported Tokens**
-* **Solana**: High speed, Low fees
-* **Stablecoins**: USDC
+* **Solana**
+* **Stablecoins**
 * **Platform Token**: MYNW (rewards)
   * Earned by supporting the network through pinning content and staying online to redistribute it
-  * **CA$H OUT**: convert MYNW into USDC in app
+  * **CA$H OUT**: convert MYNW into stablecoins in app
 
 ### **Wallet Integration**
 * Circle EOA Wallet
