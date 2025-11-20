@@ -8,8 +8,6 @@ A next generation social media platform built for creators, powered by fairness,
 <br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-23-43" src="https://github.com/user-attachments/assets/dda3a728-5618-4d4b-a3e3-36d6f55d981c" />
 <br><br>
-<img width="1300" height="963" alt="Screenshot from 2025-10-07 10-20-51" src="https://github.com/user-attachments/assets/f9173e67-438a-4bb3-bf95-ddbb07b5014a" />
-<br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-23-01" src="https://github.com/user-attachments/assets/cc877cbc-747d-4dbc-b688-c9f0ccb80f45" />
 <br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-21-07" src="https://github.com/user-attachments/assets/c61db738-587a-4019-9bd5-598ddd8bb89e" />
