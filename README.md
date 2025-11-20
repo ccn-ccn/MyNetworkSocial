@@ -54,7 +54,8 @@ Premium Accounts: tiered subscriptions with enhanced upload limits, CDN delivery
 | **Blue Check**      | $20          | 100 GB       | ✅ Partial CDN             | > 50 GB IPFS seeding   |
 | **Gold Check**      | $50          | 250 GB       | ✅ Full CDN                | > 250 GB IPFS seeding  |
 | **Black Check**     | $100         | 1 TB         | ✅ Full CDN/Edge Priority  | > 1 TB IPFS seeding    |
-  
+
+<!--
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
 The Peer-to-Peer NFT (P2P Smart Contract) is a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their on platform earnings, secured by a smart contract and represented as a NFT.
@@ -168,6 +169,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 > - All off-chain deliverables should be clearly referenced in the contract metadata and attached agreements.
 
 ---
+-->
 
 ## **Hybrid Content Delivery Network Architecture**
 
@@ -232,8 +234,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ## **Recommendation Algorithm**
 
-MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment.
-Each user's recommendations are shaped only by their own actions, not by aggregated network popularity. 
+MyNetwork uses a recommendation system specifically engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, our algorithm prioritizes deliberate user actions and financial commitment. MyNetwork's algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing creator monetization opportunities. Each user's recommendations are shaped only by their own actions, not by aggregated network popularity. 
 
 ### Recommendation Priority Hierarchy
 
@@ -253,11 +254,6 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 <br> `D` = Decay factor (reduces as engagement drops)
 <br> `E` = User engagement level (0-1 scale)
 <br> `w1-w5` = Signal weights (tipping gets highest weight at 0.35)
-
-### Result
-
-A recommendation system that promotes genuine discovery, rewards creator quality, and eliminates the algorithmic pathways that lead to radicalization on traditional platforms.
-MyNetwork's algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing creator monetization opportunities.
 
 ## **🛠️ Tech Stack**
 
