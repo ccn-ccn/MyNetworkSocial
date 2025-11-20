@@ -1,5 +1,5 @@
 # **MyNetwork**
-A next generation social media platform built for creators, powered by fairness, and designed to protect user privacy. No ads. No exploitation. Just real connections and real opportunities! MyNetwork is a creator centric social media platform that blends the immersive, swipeable experience of TikTok with the monetization and business tools of Amazon without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments.
+A next generation social media platform built for creators, powered by fairness, and designed to protect user privacy. No ads. No exploitation. Just real connections and real opportunities! MyNetwork is a creator centric social media platform that blends the swipeable experience of Tik Tok with the monetization tools of Amazon, without relying on traditional advertising. Instead, creators earn directly from their audience through seamless cryptocurrency payments.
 
 ## 🌐 Web View
 
@@ -19,7 +19,7 @@ A next generation social media platform built for creators, powered by fairness,
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-22-03" src="https://github.com/user-attachments/assets/7a1cfc40-1dc8-44df-b02d-6e09f3c08d67" />
 
 ## 📱 Phone View  
-| ![1](https://github.com/user-attachments/assets/eedee00c-b917-4f3a-acae-624876e66788) | ![2](https://github.com/user-attachments/assets/750c88bc-837c-4c17-8f8d-f473855fb8c5) | ![3](https://github.com/user-attachments/assets/01fd71ac-5d35-41c7-b7cd-01f3d4b2aae2) | ![4](https://github.com/user-attachments/assets/88bb096b-884c-4761-bf69-6799d682579b) |
+| ![1](https://github.com/user-attachments/assets/eedee00c-b917-4f3a-acae-624876e66788) | ![2](https://github.com/user-attachments/assets/750c88bc-837c-4c17-8f8d-f473855fb8c5) | ![3](https://github.com/user-att, achments/assets/01fd71ac-5d35-41c7-b7cd-01f3d4b2aae2) | ![4](https://github.com/user-attachments/assets/88bb096b-884c-4761-bf69-6799d682579b) |
 |---|---|---|---|
 | ![5](https://github.com/user-attachments/assets/a94f3136-ebbe-41dc-9b82-2a7676141c97) | ![6](https://github.com/user-attachments/assets/cfa81623-5bb3-4a8b-9b94-c242f263e833) | ![7](https://github.com/user-attachments/assets/246648e1-7810-437a-a1cf-f70abf44d6dd) | ![8](https://github.com/user-attachments/assets/73223335-b536-4841-b2db-c840f6ba43c2) |
 | ![9](https://github.com/user-attachments/assets/6717310d-a52a-42de-a812-ba0b495e4f51) | ![10](https://github.com/user-attachments/assets/375377b8-a37e-4d2c-8ddc-a6b557f75d3a) | ![11](https://github.com/user-attachments/assets/4c87cbce-4278-46a1-94f5-c4714e756e1a) | ![12](https://github.com/user-attachments/assets/52965b34-3acb-41d4-9662-351f00ba4861) |
@@ -28,11 +28,10 @@ A next generation social media platform built for creators, powered by fairness,
 ## **Key Features**
 
 ### **💸 Direct Crypto Monetization**
-* Stablecoin Payments
-* Instant Settlements: Direct wallet to wallet transactions
+* Instant Settlements: Direct wallet to wallet transactions via stablecoins
 * Creators can:
    * Sell subscriptions to private channels
-   * Sell music, videos, merchandise, subscriptions, and more
+   * Sell music, videos, merchandise, and more
 * Sellers can use the platform as a Point of Sale system:
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
