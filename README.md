@@ -269,8 +269,8 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 * **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime
 
 ### **Wallet Integration**
-* Circle EOA Wallet
-* Transak - Fiat on/off ramp
+* Circle Wallet - Externally Owned Account
+* Transak - Fiat On/Off Ramp
 * Sumsub - KYC/AML
   
 ---
