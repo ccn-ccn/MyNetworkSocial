@@ -270,7 +270,7 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 
 ### **Wallet Integration**
 * Circle EOA Wallet
-* Transak - fiat on/off ramp
+* Transak - Fiat on/off ramp
 * Sumsub - KYC/AML
   
 ---
