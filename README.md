@@ -271,9 +271,7 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 ### **Supported Tokens**
 * **Solana**
 * **Stablecoins**
-* **Platform Token**: MYNW (rewards)
-  * Earned by supporting the network through pinning content and staying online to redistribute it
-  * **CA$H OUT**: convert MYNW into stablecoins in app
+* **MYNW Token**
 
 ### **Wallet Integration**
 * Circle EOA Wallet
