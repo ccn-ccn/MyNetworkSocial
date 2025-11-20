@@ -268,11 +268,6 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users earn $MYNW for bandwidth + uptime
 
-### **Supported Tokens**
-* **Solana**
-* **Stablecoins**
-* **MYNW Token**
-
 ### **Wallet Integration**
 * Circle EOA Wallet
 * Transak - fiat on/off ramp
