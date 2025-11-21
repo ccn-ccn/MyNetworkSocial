@@ -287,9 +287,7 @@ Create, Test, Earn while helping build a platform that puts creators first.
 
 ## **🚀 Beta Testing Launch Date**
 
-Beta testing officially begins on May 1, 2026. Selected testers will receive early access credentials and onboarding materials one week prior to launch.
-<br><br>
-Application Deadline: Rolling admissions until all Beta slots are filled.
+Beta testing officially begins on May 1, 2026. Selected testers will receive early access credentials and onboarding materials one week prior to launch. Application Deadline: Rolling admissions until all Beta slots are filled.
 <br>
 
 ## **Why Join the Beta?**
