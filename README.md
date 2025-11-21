@@ -219,7 +219,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Once the total monthly payout cap (**Pᵢᶜᵃᵖ**) is reached:
   * All further token rewards stop
   * Dynamic Seeder Assignment (DSA) is disabled
-  * All users automatically become free seeders (N𝒻ᵣₑₑ) to maintain distribution speed
+  * All users automatically become free seeders to maintain distribution speed
 
 ### **Step 5: Auto Load Balancing**
 
