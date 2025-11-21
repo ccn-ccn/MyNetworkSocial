@@ -294,7 +294,7 @@ Beta testing officially begins on May 1, 2026. Selected testers will receive ear
 
 Get early access to the future of Social Media.<br><br>
 Earn crypto while you post, view, and save content.<br><br>
-Be part of the Proof of Distribution economy — the more active you are, the more you earn.<br><br>
+Be part of the Proof of Distribution economy — the more active you are, the more you earn.<br>
 
 Create → Search → Pin → Earn → Repeat.
 
