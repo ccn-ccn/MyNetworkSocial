@@ -286,8 +286,8 @@ No ads. No exploitation. Just real connections and real crypto rewards!
 Create, Test, Earn while helping build a platform that puts creators first.
 
 ## **🚀 Testing Launch Date**
-* Mark Your Calendars: March 1, 2026
-* Beta testing officially begins on March 1, 2026. Selected testers will receive early access credentials and onboarding materials one week prior to launch.
+* Mark Your Calendars: May 1, 2026
+* Beta testing officially begins on May 1, 2026. Selected testers will receive early access credentials and onboarding materials one week prior to launch.
 * Application Deadline: Rolling admissions until all Beta slots are filled.
 
 ## **Why Join the Beta?**
