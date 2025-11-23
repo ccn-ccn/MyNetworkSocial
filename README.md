@@ -260,7 +260,7 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 * **Human-in-the-Loop Moderation**: Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
 
 ### **Decentralized Distribution**
-* **IPFS (InterPlanetary File System)**: P2P content offloaded for distribution
+* **IPFS (InterPlanetary File System)**: content offloaded for P2P distribution
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users earn MYNW for bandwidth + uptime
 
