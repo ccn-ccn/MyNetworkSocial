@@ -250,17 +250,17 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 ## **🛠️ Tech Stack**
 
 ### **Cloud Services & Delivery**
-* **IBM Cloud Databases for MongoDB** → Flexible database for user accounts, profiles, and app metadata.
-* **IBM Cloud Object Storage** → Secure, scalable storage for all uploads.
-* **Cloudflare CDN** → Global edge delivery for videos, livestreams, and static assets.
+* **IBM Cloud Databases for MongoDB**: Flexible database for user accounts, profiles, and app metadata.
+* **IBM Cloud Object Storage**: Secure, scalable storage for all uploads.
+* **Cloudflare CDN**: Global edge delivery for videos, livestreams, and static assets.
 * **Hybrid Flow**: Uploads land in IBM storage, served via Cloudflare for low-latency delivery.
 
 ### **AI Moderation & Compliance**
-* **IBM Watson AI** → Automated content moderation (image/video/audio/NLP analysis) to block impersonation, deepfakes, and unsafe content.
-* **Human-in-the-Loop Moderation** → Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
+* **IBM Watson AI**: Automated content moderation (image/video/audio/NLP analysis) to block impersonation, deepfakes, and unsafe content.
+* **Human-in-the-Loop Moderation**: Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
 
 ### **Decentralized Distribution**
-* **IPFS (InterPlanetary File System)** → P2P content replication for downloads
+* **IPFS (InterPlanetary File System)**: P2P content offloaded for distribution
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users earn MYNW for bandwidth + uptime
 
