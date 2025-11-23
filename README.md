@@ -172,13 +172,13 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 1: Content Delivery Network (CDN)**
 
 * All uploads start on the CDN for moderation
-* Automated checks ensure compliance before distribution
+* Automated checks ensure compliance before offload
 * Ability to remove harmful or illegal content
 
 ### **Step 2: Screened Content Offloaded to IPFS**
 
 * Premium Users Content: Stay on CDN for performance
-* Non Premium Users Content: After passing validation, replicated onto IPFS for P2P sharing
+* Non Premium Users Content: After passing validation, offloaded onto IPFS for P2P sharing
 
 ### **Step 3: Incentivized Distribution via MYNW Tokens**
 
