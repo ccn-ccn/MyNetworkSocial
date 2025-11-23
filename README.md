@@ -169,13 +169,13 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ## **Hybrid Content Delivery Network Architecture**
 
-### **Step 1: Central Content Delivery Network**
+### **Step 1: Central Content Delivery Network (CDN)**
 
 * All uploads start on the Central CDN for moderation
 * Automated checks ensure compliance before distribution
 * Ability to remove harmful or illegal content
 
-### **Step 2: Screened Content Offloaded to P2P CDN**
+### **Step 2: Screened Content Offloaded to IPFS**
 
 * Premium Users Content: Stay on Central CDN for performance
 * Non Premium Users Content: After passing validation, replicated onto IPFS for P2P sharing
