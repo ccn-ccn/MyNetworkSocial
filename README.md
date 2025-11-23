@@ -292,8 +292,6 @@ Get early access to the future of Social Media.<br>
 Earn crypto while you post, view, and save content.<br>
 Be part of the Proof of Distribution economy, the more active you are, the more you earn.<br>
 
-Create → Search → Pin → Earn → Repeat.
-
 **🌐 Go MyNetwork**<br>
 **🎤 Go Viral**<br> 
 **💰 Go to the Bank**<br> 
