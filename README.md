@@ -177,8 +177,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 2: Screened Content Offloaded to IPFS**
 
-* Premium Users Content: Stay on CDN for performance
-* Non Premium Users Content: After passing validation, offloaded onto IPFS for P2P sharing
+* Premium Users Content: Stays on CDN for performance
+* Non Premium Users Content: After passing validation, offloaded to IPFS for P2P sharing
 
 ### **Step 3: Incentivized Distribution via MYNW Tokens**
 
