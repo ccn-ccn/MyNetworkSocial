@@ -194,7 +194,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Payout cap scales with increased platform revenue (subscriptions, tips, content sales)
 * Prevents overspending while keeping rewards predictable and sustainable
 
-### **Step 2: Dynamic Seeder Assignment (DSA)**
+### **Step 2: Dynamic Seeder Assignment**
 
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
@@ -218,7 +218,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 * Once the total monthly payout cap (**Pᵢᶜᵃᵖ**) is reached:
   * All further token rewards stop
-  * Dynamic Seeder Assignment (DSA) is disabled
+  * Dynamic Seeder Assignment is disabled
   * All users automatically become free seeders to maintain distribution speed
 
 ### **Step 5: Auto Load Balancing**
