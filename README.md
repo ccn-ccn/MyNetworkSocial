@@ -33,7 +33,6 @@
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly
 * 🎬 Filmmakers: sell movies or videos in app
-* 📚 Authors: sell digital or physical books
 * 🛍️ Retail stores: sell products with integrated delivery
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
 * 🤣 Comedians: charge for video clips or subscription to exclusive content
