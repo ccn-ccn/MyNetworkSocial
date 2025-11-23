@@ -249,7 +249,7 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 **Where:**
 <br> `D` = Decay factor (reduces as engagement drops)
 <br> `E` = User engagement level (0-1 scale)
-<br> `w1-w5` = Signal weights (tipping gets highest weight at 0.35)
+<br> `w1-w5` = Signal weights 
 
 ## **🛠️ Tech Stack**
 
