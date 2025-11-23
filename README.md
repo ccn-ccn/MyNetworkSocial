@@ -169,7 +169,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ## **Hybrid Content Delivery Network Architecture**
 
-### **Step 1: Central Content Delivery Network (CDN)**
+### **Step 1: Content Delivery Network (CDN)**
 
 * All uploads start on the Central CDN for moderation
 * Automated checks ensure compliance before distribution
