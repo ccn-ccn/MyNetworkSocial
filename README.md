@@ -171,7 +171,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 1: Content Delivery Network (CDN)**
 
-* All uploads start on the Central CDN for moderation
+* All uploads start on the CDN for moderation
 * Automated checks ensure compliance before distribution
 * Ability to remove harmful or illegal content
 
