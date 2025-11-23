@@ -1,5 +1,4 @@
 # **MyNetwork**
-A creator centric social media platform that blends the swipeable experience of Tik Tok with the monetization tools of Amazon, without relying on traditional advertising. 
 
 ## 🌐 Web View
 
