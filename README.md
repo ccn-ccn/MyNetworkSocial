@@ -1,5 +1,3 @@
-# **MyNetwork**
-
 ## 🌐 Web View
 
 
