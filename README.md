@@ -239,7 +239,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 ### Mathematical Scoring Formula
 
 ```
-Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-E) × w5×Popularity
+Content Score = D × (w1×Paid + w2×Following + w3×Pinned + w4×Viewed + (1-E) × w5×Popularity
 ```
 
 **Where:**
