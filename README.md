@@ -208,7 +208,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
   ```
   Reward_User = (User_MB / Bᵢ) × Video_Share
   ```
-* No earning caps per user, users can earn unlimited MYNW tokens, rewards scale with distribution activity
+* No earning caps per user, users can earn unlimited MYNW tokens, rewards scale with sharing activity
 
 ### **Step 4: Payout Cap Enforcement**
 
