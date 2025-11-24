@@ -163,7 +163,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ---
 -->
 
-## **Hybrid Content Delivery Network Architecture**
+## **Hybrid Content Delivery Architecture**
 
 ### **Step 1: Content Delivery Network (CDN)**
 
