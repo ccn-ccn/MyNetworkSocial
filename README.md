@@ -256,7 +256,7 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 
 ### **AI Moderation & Compliance**
 * **IBM Watson AI**: Automated content moderation to block impersonation, deepfakes, and unsafe content.
-* **Human-in-the-Loop Moderation**: Manual review layer for borderline cases, ensuring context-aware decisions and compliance with regulatory standards.
+* **Human-in-the-Loop Moderation**: Manual review layer for borderline cases, ensuring context-aware decisions.
 
 ### **Decentralized Distribution**
 * **InterPlanetary File System**: content offloaded for P2P distribution
