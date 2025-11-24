@@ -176,7 +176,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Premium Users Content: Screened content stays on CDN for performance
 * Non Premium Users Content: After passing validation, content offloaded to IPFS for P2P sharing
 
-### **Step 3: Incentivized Distribution via MYNW Tokens**
+### **Step 3: Incentivized Distribution (MYNW Tokens)**
 
 * Online users automatically distribute pinned content and earn MYNW token rewards
 * Rewards increase with increased app usage (Proof of Distribution model)
