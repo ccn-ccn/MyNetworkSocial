@@ -264,7 +264,7 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 * **Proof of Distribution**: Users earn MYNW for bandwidth + uptime
 
 ### **Wallet Integration**
-* Fireblocks Wallet - Wallets-as-a-Service
+* Fireblocks - Wallets-as-a-Service
 * Transak - Fiat On/Off Ramp
 * Sumsub - KYC/AML
   
