@@ -194,8 +194,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
-  * **Sᵢ** — total seeders (pinners)
-* When users pin a video, a random subset of seeders is selected to receive token rewards each time a video is viewed
+  * **Sᵢ** — total seeders (users who pinned the video)
+* Each time a video is viewed a random subset of seeders is selected to receive MYNW tokens
 * Randomization ensures fair distribution and regional load balance for faster delivery
 
 ### **Step 3: Fair Reward Distribution**
@@ -208,7 +208,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
   ```
   Reward_User = (User_MB / Bᵢ) × Video_Share
   ```
-* No earning caps per user — users can earn unlimited MYNW, rewards scale with distribution activity
+* No earning caps per user, users can earn unlimited MYNW tokens, rewards scale with distribution activity
 
 ### **Step 4: Payout Cap Enforcement**
 
