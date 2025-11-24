@@ -178,9 +178,9 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 3: Incentivized Distribution (MYNW)**
 
-* Online users automatically distribute pinned content and earn MYNW token rewards
-* Rewards increase with increased app usage (Proof of Distribution model)
-* Cash out MYNW for stablecoins in app
+* Online users automatically share pinned content and can earn MYNW token rewards
+* More active users have higher chances of earning rewards (Proof of Distribution model)
+* Cash out MYNW for stablecoins directly in the app
    
 ## **Tokenized Distribution Model**
 
