@@ -168,7 +168,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 1: Content Delivery Network (CDN)**
 
 * All uploads start on the CDN for moderation
-* Automated checks ensure compliance before offload
+* Automated checks ensure compliance before offloading
 * Ability to remove harmful or illegal content
 
 ### **Step 2: InterPlanetary File System (IPFS)**
