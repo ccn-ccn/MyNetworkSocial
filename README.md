@@ -195,7 +195,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — total seeders (users who pinned the video)
-* Each time a video is viewed a random subset of seeders is selected to receive MYNW tokens
+* Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
 * Randomization ensures fair distribution and regional load balance for faster delivery
 
 ### **Step 3: Fair Reward Distribution**
