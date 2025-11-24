@@ -255,8 +255,8 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 * **Hybrid Flow**: Uploads land in IBM storage, served via Cloudflare for low-latency delivery.
 
 ### **AI Moderation & Compliance**
-* **IBM Watson AI**: Automated content moderation (image/video/audio/NLP analysis) to block impersonation, deepfakes, and unsafe content.
-* **Human-in-the-Loop Moderation**: Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
+* **IBM Watson AI**: Automated content moderation to block impersonation, deepfakes, and unsafe content.
+* **Human-in-the-Loop Moderation**: Manual review layer for borderline cases, ensuring context-aware decisions and compliance with regulatory standards.
 
 ### **Decentralized Distribution**
 * **InterPlanetary File System**: content offloaded for P2P distribution
