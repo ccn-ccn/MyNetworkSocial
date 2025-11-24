@@ -275,7 +275,7 @@ Content Score = D × (w1×Tipped + w2×Following + w3×Pinned + w4×Viewed + (1-
 
 We’re opening the doors for exclusive **Beta Testers** to join MyNetwork — The next generation of Social Media built for creators.
 
-No ads. No exploitation. Just real connections and real crypto rewards!
+No ads. No exploitation. Just real connections and real crypto rewards.
 <br><br>
 **💸 $1 Million worth of MYNW Tokens up for grabs 💸**
 <br><br>
@@ -296,7 +296,7 @@ Be part of the Proof of Distribution economy, the more active you are, the more 
 **🎤 Go Viral**<br> 
 **💰 Go to the Bank**<br> 
 <br>
-More than just a social media platform this is **Your network, Your rules, Your money!**
+More than just a social media platform this is **Your network. Your rules. Your money.**
 <br><br>
 👉 [**Apply now**](mailto:contact@mynetworksocial.com) to become a Beta Tester and claim your share of the future. Send a link to your social media account for approval.
 
