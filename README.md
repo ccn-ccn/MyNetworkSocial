@@ -230,7 +230,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 ### Recommendation Priority Hierarchy
 
-* **Tip/Paid Content** - Content you've financially supported
+* **Purchased Content** - Content you've financially supported
 * **Following Accounts** - Creators you've chosen to follow
 * **Pinned Content** - Content you've pinned for later
 * **Viewed Content** - Content you've watched
@@ -239,7 +239,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 ### Mathematical Scoring Formula
 
 ```
-Content Score = D × (w1×Paid + w2×Following + w3×Pinned + w4×Viewed + (1-E) × w5×Popularity
+Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + (1-E) × w5×Popularity
 ```
 
 **Where:**
