@@ -171,10 +171,10 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Automated checks ensure compliance before offload
 * Ability to remove harmful or illegal content
 
-### **Step 2: Screened Content Offloaded to IPFS**
+### **Step 2: InterPlanetary File System (IPFS)**
 
-* Premium Users Content: Stays on CDN for performance
-* Non Premium Users Content: After passing validation, offloaded to IPFS for P2P sharing
+* Premium Users Content: Screened content stays on CDN for performance
+* Non Premium Users Content: After passing validation, content offloaded to IPFS for P2P sharing
 
 ### **Step 3: Incentivized Distribution via MYNW Tokens**
 
@@ -260,7 +260,7 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 * **Human-in-the-Loop Moderation**: Dedicated manual review layer for flagged or borderline cases, ensuring context-aware decisions, fairness, and compliance with regulatory standards.
 
 ### **Decentralized Distribution**
-* **IPFS (InterPlanetary File System)**: content offloaded for P2P distribution
+* **InterPlanetary File System**: content offloaded for P2P distribution
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users earn MYNW for bandwidth + uptime
 
