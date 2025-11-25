@@ -265,7 +265,7 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 
 ### **Wallet Integration**
 * Fireblocks - Wallets-as-a-Service
-* Transak - Fiat On/Off Ramp
+* Alfred - Fiat On/Off Ramp
 * Sumsub - KYC/AML
   
 ---
