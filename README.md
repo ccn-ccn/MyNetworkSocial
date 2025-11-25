@@ -22,7 +22,7 @@
 
 ### **💸 Direct Crypto Monetization**
 * Instant Settlements:
-  * Direct wallet to wallet transactions via stablecoins
+  * Direct wallet to wallet transactions 
 * Creators can:
    * Sell subscriptions to private channels
    * Sell music, videos, merchandise, and more
