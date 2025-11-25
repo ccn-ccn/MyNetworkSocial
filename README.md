@@ -248,14 +248,14 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 ## **🛠️ Tech Stack**
 
 ### **Cloud Services & Delivery**
-* **IBM Cloud Databases for MongoDB**: Flexible database for user accounts, profiles, and app metadata.
-* **IBM Cloud Object Storage**: Secure, scalable storage for all uploads.
-* **Cloudflare CDN**: Global edge delivery for videos, livestreams, and static assets.
-* **Hybrid Flow**: Uploads land in IBM storage, served via Cloudflare for low-latency delivery.
+* **IBM Cloud Databases for MongoDB**: Flexible database for user accounts, profiles, and app metadata
+* **IBM Cloud Object Storage**: Secure, scalable storage for all uploads
+* **Cloudflare CDN**: Global edge delivery for videos, livestreams, and static assets
+* **Hybrid Flow**: Uploads land in IBM storage, served via Cloudflare for low-latency delivery
 
 ### **AI Moderation & Compliance**
-* **IBM Watson AI**: Automated content moderation to block impersonation, deepfakes, and unsafe content.
-* **Human-in-the-Loop**: Manual review layer for borderline cases, ensuring context-aware decisions.
+* **IBM Watson AI**: Automated content moderation to block impersonation, deepfakes, and unsafe content
+* **Human-in-the-Loop**: Manual review layer for borderline cases, ensuring context-aware decisions
 
 ### **Decentralized Distribution**
 * **InterPlanetary File System**: content offloaded for P2P distribution
