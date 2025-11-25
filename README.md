@@ -173,7 +173,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 2: InterPlanetary File System (IPFS)**
 
-* Premium Users: Screened content stays on CDN for performance
+* Premium Users: Screened content stays on CDN for performance and reliability
 * Free Users: After passing validation, content offloaded to IPFS for peer-to-peer sharing
 
 ### **Step 3: Incentivized Distribution (MYNW)**
