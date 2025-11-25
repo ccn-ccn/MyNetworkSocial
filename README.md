@@ -219,8 +219,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 5: Auto Load Balancing**
 
 * After the payout cap is hit:
-  * Seeder participation expands network-wide
-  * High peer density keeps delivery fast and stable
+  * Seeder participation expands network-wide\
   * Bandwidth burden per user drops dramatically while maintaining uptime
 
 ## **Recommendation Algorithm**
