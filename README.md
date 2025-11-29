@@ -220,7 +220,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 * After the payout cap is hit:
   * Seeder participation expands network-wide
-  * Bandwidth burden per user drops dramatically while maintaining uptime
+  * Bandwidth burden per user drops
 
 ## **Recommendation Algorithm**
 
