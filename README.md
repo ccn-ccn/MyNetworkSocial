@@ -26,7 +26,7 @@
 * Creators can:
    * Sell subscriptions to private channels
    * Sell music, videos, merchandise, and more
-* Sellers can use the platform as a Point of Sale system:
+* Sellers can:
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for local fiat
      
