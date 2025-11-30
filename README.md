@@ -286,7 +286,7 @@ Beta testing officially begins on March 1, 2026. Selected testers will receive e
 ## **Why Join the Beta?**
 
 Get early access to the future of Social Media.<br>
-Earn crypto while you post, view, and save content.<br>
+Earn crypto while you post, view, and pin content.<br>
 Be part of the Proof of Distribution economy, the more active you are, the more you earn.<br>
 
 **🌐 Go MyNetwork**<br>
