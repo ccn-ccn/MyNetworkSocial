@@ -263,8 +263,8 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 * **Proof of Distribution**: Users earn MYNW for bandwidth + uptime
 
 ### **Wallet Integration**
-* Coinbase - Wallets-as-a-Service
-* Sumsub - KYC/AML
+* Coinbase: Wallets-as-a-Service
+* Sumsub: KYC/AML
   
 ---
 
