@@ -260,7 +260,7 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + 
 ### **Decentralized Distribution**
 * **InterPlanetary File System**: content offloaded for P2P distribution
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
-* **Proof of Distribution**: Users earn MYNW for bandwidth + uptime
+* **Proof of Distribution**: Users can earn MYNW for bandwidth + uptime
 
 ### **Wallet Integration**
 * Coinbase: Wallets-as-a-Service
