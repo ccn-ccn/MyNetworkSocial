@@ -231,19 +231,20 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 * **Purchased Content** - Content you've financially supported
 * **Following Accounts** - Creators you've chosen to follow
 * **Pinned Content** - Content you've pinned for later
+* **Shared Content** - Content you've shared 
 * **Viewed Content** - Content you've watched
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
 
 ```
-Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Viewed + (1-E) × w5×Popularity
+Content Score = D × (w1×Purchased + w2×Following + w3×Pinned + w4×Shared + w5×Viewed + (1-E) × w6×Popularity
 ```
 
 **Where:**
 <br> `D` = Decay factor (reduces as engagement drops)
 <br> `E` = User engagement level (0-1 scale)
-<br> `w1-w5` = Signal weights 
+<br> `w1-w6` = Signal weights 
 
 ## **🛠️ Tech Stack**
 
