@@ -228,11 +228,11 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 ### Recommendation Priority Hierarchy
 
-* **Purchased Content** - Content you've financially supported
-* **Following Accounts** - Creators you've chosen to follow
-* **Shared Content** - Content you've shared
-* **Pinned Content** - Content you've pinned
-* **Viewed Content** - Content you've watched
+* **Purchased Content** - Content you have financially supported
+* **Following Accounts** - Creators you have chosen to follow
+* **Shared Content** - Content you have shared
+* **Pinned Content** - Content you have pinned
+* **Viewed Content** - Content you have watched
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
