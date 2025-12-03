@@ -259,7 +259,7 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Shared+ w4×Pinned + w
 * **Human-in-the-Loop**: Manual review layer for borderline cases, ensuring context-aware decisions
 
 ### **Decentralized Distribution**
-* **InterPlanetary File System**: content offloaded for P2P distribution
+* **InterPlanetary File System**: content offloaded for peer-to-peer distribution
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * **Proof of Distribution**: Users can earn MYNW for bandwidth + uptime
 
