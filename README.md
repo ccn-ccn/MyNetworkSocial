@@ -28,7 +28,7 @@
    * Sell music, videos, merchandise, and more
 * Sellers can:
    * Create products in app with price, description, and delivery type 
-   * Track sales, manage inventory, and exchange stablecoins for local fiat
+   * Track sales, manage inventory, and exchange stablecoins for dollars
      
 ### **🎤 Support for All Creators**
 * 🎶 Musicians: sell music or albums directly
