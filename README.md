@@ -232,7 +232,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 * **Following Accounts** - Creators you have chosen to follow
 * **Shared Content** - Content you have shared or reshared
 * **Pinned Content** - Content you have pinned
-* **Viewed Content** - Content you have watched
+* **Viewed Content** - Content you have viewed
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
