@@ -180,7 +180,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 * Online users automatically share pinned content that can earn MYNW token rewards
 * More active users have higher chances of earning rewards (Proof of Distribution model)
-* Cash out MYNW for dollars in the app
+* Cash out MYNW for dollars and transfer to bank account
    
 ## **Tokenized Distribution Model**
 
