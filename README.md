@@ -230,7 +230,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 * **Purchased Content** - Content you have financially supported
 * **Following Accounts** - Creators you have chosen to follow
-* **Shared Content** - Content you have shared or reshared
+* **Shared Content** - Content you have shared 
 * **Viewed Content** - Content you have viewed
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
