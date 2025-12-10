@@ -25,7 +25,7 @@
   * Direct wallet to wallet transactions 
 * Creators can:
    * Sell subscriptions to private channels
-   * Sell music, videos, merchandise, and more
+   * Sell music, videos, photos and more
 * Sellers can:
    * Create products in app with price, description, and delivery type 
    * Track sales, manage inventory, and exchange stablecoins for dollars
