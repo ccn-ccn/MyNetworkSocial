@@ -35,7 +35,7 @@
 * 🎬 Filmmakers: sell movies or videos in app
 * 🛍️ Retail stores: sell products with integrated delivery
 * 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
-* 🤣 Comedians: charge for video clips or subscription to exclusive content
+* 🤣 Comedians: charge for video clips or subscription content
 * 👗 Models: sell exclusive content or subscription based fan experiences
 
 Premium Accounts: tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
