@@ -27,7 +27,7 @@
    * Sell subscriptions to private channels
    * Sell music, videos, photos and more
 * Sellers can:
-   * Create products in app with price, description, and delivery type 
+   * Create products in app with price, description, and delivery 
    * Track sales, manage inventory, and exchange stablecoins for dollars
      
 ### **🎤 Support for All Creators**
