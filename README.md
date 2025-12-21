@@ -30,22 +30,22 @@
    * Create products in app with price, description, and delivery 
    * Track sales, manage inventory, and exchange stablecoins for dollars
      
-### **🎤 Support for All Creators**
-* 🎶 Musicians: sell music or albums directly
-* 🎬 Filmmakers: sell movies or videos in app
-* 🛍️ Retail stores: sell products with integrated delivery
-* 🧠 Educators: launch topic-based micro-courses in STEM & trade skills
-* 🤣 Comedians: charge for video clips or subscription content
-* 👗 Models: sell exclusive content or subscription based fan experiences
+### **🎤 Empowering All Creators**
+* 🎶 Musicians: Sell beats, music and digital collectibles directly to fans
+* 🎬 Filmmakers: Turn views into revenue with short film and video clips
+* 🛍️ Retail Stores: Sell globally through your own integrated storefront
+* 🧠 Educators: Teach the future launching courses in trade skills
+* 🤣 Comedians: Own the stage monetizing video clips for your audience
+* 👗 Models: Build your brand with exclusive content and fan experiences 
 
 Premium Accounts: tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
 
-| Tier                | Monthly Cost | Upload Limit | CDN Access                 | IPFS Role              |
-| ------------------- | ------------ | ------------ | -------------------------- | ---------------------- |
-| **Free**            |     $0       |    5 GB      | ❌ (IPFS only)             | Full IPFS seeding      |
-| **Blue Check**      |     $20      |    100 GB    | ✅ Partial CDN             | > 50 GB IPFS seeding   |
-| **Gold Check**      |     $50      |    250 GB    | ✅ Full CDN                | > 250 GB IPFS seeding  |
-| **Black Check**     |     $100     |    1 TB      | ✅ Full CDN/Edge Priority  | > 1 TB IPFS seeding    |
+| Tier              | Monthly Cost | Upload Limit | CDN Access                 | IPFS Role              |
+| ----------------- | ------------ | ------------ | -------------------------- | ---------------------- |
+| **Free**          |     $0       |    5 GB      | ❌ (IPFS only)             | Full IPFS seeding      |
+| **Blue Check**    |     $20      |    100 GB    | ✅ Partial CDN             | > 50 GB IPFS seeding   |
+| **Gold Check**    |     $50      |    250 GB    | ✅ Full CDN                | > 250 GB IPFS seeding  |
+| **Black Check**   |     $100     |    1 TB      | ✅ Full CDN/Edge Priority  | > 1 TB IPFS seeding    |
 
 <!--
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
