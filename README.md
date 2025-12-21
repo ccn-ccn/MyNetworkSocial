@@ -30,7 +30,7 @@
    * Create products in app with price, description, and delivery 
    * Track sales, manage inventory, and exchange stablecoins for dollars
      
-### **🎤 Empowering All Creators**
+### **🎤 Empowering Creators**
 * 🎶 Musicians: Sell beats, music and digital collectibles directly to fans
 * 🎬 Filmmakers: Turn views into revenue with short film and video clips
 * 🛍️ Retail Stores: Sell globally through your own integrated storefront
