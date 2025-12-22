@@ -226,38 +226,25 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 MyNetwork uses a recommendation system engineered to prevent algorithmic radicalization while promoting genuine discovery and creator monetization. Unlike traditional platforms that optimize purely for engagement metrics, the MyNetwork algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing creator monetization opportunities. Each user's recommendations are shaped only by their own actions, not by aggregated network popularity. 
 
-### Recommendation Priority Hierarchy
+## Recommendation Priority
 
-* **Purchased Content** - Content you have financially supported
-* **Following Accounts** - Creators you have chosen to follow
-* **Shared Content** - Content you have shared or reshared
-* **Viewed Content** - Content you have viewed
-* **Popularity Boost** - Trending content (weight increases as your engagement decreases)
+| Pool     |  %  | Description                                |
+|----------|-----|--------------------------------------------|
+| Followed | 50% | Content from creators you follow           |
+| Tags     | 25% | Content matching your personalization tags |
+| Popular  | 15% | Trending content sorted by view count      |
+| Random   | 10% | Random selection for discovery             |
 
-### Mathematical Scoring Formula
-```
-Score = E × (w1×PurchasedTags + w2×Following + w3×SharedTags + w4×ViewedTags) + (1-E) × Popularity
-```
-**Where:**
-<br> `E` = User engagement level (0-1 scale based on historical activity)
-<br> `PurchasedTags` = Number of content tags matching your purchased content tags
-<br> `Following` = If you follow the creator or not
-<br> `SharedTags` = Number of content tags matching your shared content tags
-<br> `ViewedTags` = Number of content tags matching your viewed content tags
-<br> `Popularity` = Normalized engagement score (views, comments, shares, pins)
+**How tags are collected:**
 
-**Signal Weights:**
-| Signal | Weight |
-|--------|--------|
-| Purchased | 45% |
-| Following | 30% |
-| Shared | 15% |
-| Viewed | 10% |
+Your personalization tags are automatically updated when you:
+- Purchase content - Tips or one-time purchases
+- Share content - External shares to other platforms
+- Reshare content - Internal reshares within the app
 
-**Behavior:**
-- High engagement (E=1.0): 100% personalized recommendations
-- Medium engagement (E=0.5): 50% personalized, 50% popular content
-- Low engagement (E=0.1): 10% personalized, 90% popular content
+**Tag properties:**
+- Maximum 50 tags stored
+- Newest tags added first, oldest removed when limit reached
 
 ## **🛠️ Tech Stack**
 
