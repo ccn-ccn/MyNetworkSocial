@@ -235,9 +235,9 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 * **Popularity Boost** - Trending content (weight increases as your engagement decreases)
 
 ### Mathematical Scoring Formula
-
+```
 Score = E × (w1×PurchasedTags + w2×Following + w3×SharedTags + w4×ViewedTags) + (1-E) × Popularity
-
+```
 **Where:**
 <br> `E` = User engagement level (0-1 scale based on historical activity)
 <br> `PurchasedTags` = Number of content tags matching your purchased content tags
