@@ -278,7 +278,7 @@ Score = E × (w1×PurchasedTags + w2×Following + w3×SharedTags + w4×ViewedTag
 
 ### **Wallet Integration**
 * Coinbase: Wallets-as-a-Service
-* Socure: KYC/AML
+* Entrust: KYC/AML
   
 ---
 
