@@ -241,7 +241,7 @@ Score = E × (w1×PurchasedTags + w2×Following + w3×SharedTags + w4×ViewedTag
 **Where:**
 <br> `E` = User engagement level (0-1 scale based on historical activity)
 <br> `PurchasedTags` = Number of content tags matching your purchased content tags
-<br> `Following` = 1 if you follow the creator, 0 otherwise
+<br> `Following` = If you follow the creator or not
 <br> `SharedTags` = Number of content tags matching your shared content tags
 <br> `ViewedTags` = Number of content tags matching your viewed content tags
 <br> `Popularity` = Normalized engagement score (views, comments, shares, pins)
