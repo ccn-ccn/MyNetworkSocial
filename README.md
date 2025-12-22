@@ -262,7 +262,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 ### **Wallet Integration**
 * Coinbase: Wallets-as-a-Service
-* Entrust: KYC/AML
+* Socure: KYC/AML
   
 ---
 
