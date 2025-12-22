@@ -245,6 +245,41 @@ Content Score = D × (w1×Purchased + w2×Following + w3×Shared + w4×Viewed + 
 <br> `E` = User engagement level (0-1 scale)
 <br> `w1-w5` = Signal weights 
 
+
+
+
+
+* **Purchased Content** - Content you have financially supported
+* **Following Accounts** - Creators you have chosen to follow
+* **Shared Content** - Content you have shared or reshared
+* **Viewed Content** - Content you have viewed
+* **Popularity Boost** - Trending content (weight increases as your engagement decreases)
+
+### Mathematical Scoring Formula
+
+Score = E × (w1×PurchasedTags + w2×Following + w3×SharedTags + w4×ViewedTags) + (1-E) × Popularity
+
+**Where:**
+<br> `E` = User engagement level (0-1 scale based on historical activity)
+<br> `PurchasedTags` = Number of content tags matching your purchased content tags
+<br> `Following` = 1 if you follow the creator, 0 otherwise
+<br> `SharedTags` = Number of content tags matching your shared content tags
+<br> `ViewedTags` = Number of content tags matching your viewed content tags
+<br> `Popularity` = Normalized engagement score (views, comments, shares, pins)
+
+**Signal Weights:**
+| Signal | Weight |
+|--------|--------|
+| Purchased | 45% |
+| Following | 30% |
+| Shared | 15% |
+| Viewed | 10% |
+
+**Behavior:**
+- High engagement (E=1.0): 100% personalized recommendations
+- Medium engagement (E=0.5): 50% personalized, 50% popular content
+- Low engagement (E=0.1): 10% personalized, 90% popular content
+
 ## **🛠️ Tech Stack**
 
 ### **Cloud Services & Delivery**
