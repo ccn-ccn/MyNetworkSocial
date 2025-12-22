@@ -241,7 +241,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 - Share content - External shares to other platforms
 - Reshare content - Internal reshares within the app
 - Maximum 1000 tags stored
-- Newest tags added first, oldest removed when limit reached (FIFO)
+- Newest tags added first, oldest removed when max reached
 
 ## **🛠️ Tech Stack**
 
