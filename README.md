@@ -228,12 +228,12 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 ## Recommendation Priority
 
-| Category |  %  | Description                                |
-|----------|-----|--------------------------------------------|
-| Followed | 50% | Content from creators you follow           |
-| Tags     | 25% | Content matching your personalization tags |
-| Popular  | 15% | Trending content sorted by view count      |
-| Random   | 10% | Random selection for discovery             |
+| Category  | %   | Description                                |
+|-----------|-----|--------------------------------------------|
+| Following | 50% | Content from creators you follow           |
+| Tags      | 25% | Content matching your personalization tags |
+| Popular   | 15% | Trending content sorted by view count      |
+| Random    | 10% | Random selection for discovery             |
 
 **How tags are collected:**
 
