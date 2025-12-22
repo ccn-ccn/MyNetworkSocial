@@ -228,7 +228,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 ## Recommendation Priority
 
-| Pool     |  %  | Description                                |
+| Category |  %  | Description                                |
 |----------|-----|--------------------------------------------|
 | Followed | 50% | Content from creators you follow           |
 | Tags     | 25% | Content matching your personalization tags |
@@ -237,14 +237,11 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 **How tags are collected:**
 
-Your personalization tags are automatically updated when you:
 - Purchase content - Tips or one-time purchases
 - Share content - External shares to other platforms
 - Reshare content - Internal reshares within the app
-
-**Tag properties:**
 - Maximum 50 tags stored
-- Newest tags added first, oldest removed when limit reached
+- Newest tags added first, oldest removed when limit reached (FIFO)
 
 ## **🛠️ Tech Stack**
 
