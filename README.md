@@ -38,14 +38,14 @@
 * 🤣 Comedians: Own the stage monetizing video clips for your audience
 * 👗 Models: Build your brand with exclusive content and fan experiences 
 
-Premium Accounts: Tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
+Tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
 
-| Tier              | Monthly Cost | Upload Limit | CDN Access                 | IPFS Role              |
-| ----------------- | ------------ | ------------ | -------------------------- | ---------------------- |
-| **Free**          |     $0       |    5 GB      | ❌ (IPFS only)             | Full IPFS seeding      |
-| **Blue Check**    |     $20      |    100 GB    | ✅ Partial CDN             | > 50 GB IPFS seeding   |
-| **Gold Check**    |     $50      |    250 GB    | ✅ Full CDN                | > 250 GB IPFS seeding  |
-| **Black Check**   |     $100     |    1 TB      | ✅ Full CDN/Edge Priority  | > 1 TB IPFS seeding    |
+| Tier          | Monthly Cost | Upload Limit | CDN Access                | IPFS Role             |
+| ------------- | ------------ | ------------ | ------------------------- | --------------------- |
+| Free          |     $0       |    5 GB      | ❌ (IPFS only)            | Full IPFS seeding     |
+| Blue Check    |     $20      |    100 GB    | ✅ Partial CDN            | > 50 GB IPFS seeding  |
+| Gold Check    |     $50      |    250 GB    | ✅ Full CDN               | > 250 GB IPFS seeding |
+| Black Check   |     $100     |    1 TB      | ✅ Full CDN/Edge Priority | > 1 TB IPFS seeding   |
 
 <!--
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
