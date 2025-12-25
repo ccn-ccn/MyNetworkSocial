@@ -162,26 +162,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ---
 -->
-
-## **Hybrid Content Delivery Architecture**
-
-### **Step 1: Content Delivery Network (CDN)**
-
-* All uploads start on the CDN for moderation
-* Automated checks ensure compliance before offloading
-* Ability to remove harmful or illegal content
-
-### **Step 2: InterPlanetary File System (IPFS)**
-
-* Premium Users: Screened content stays on CDN for performance and reliability
-* Free Users: After passing validation, content offloaded to IPFS for peer-to-peer sharing
-
-### **Step 3: Incentivized Distribution (MYNW)**
-
-* Online users automatically share pinned content that can earn MYNW token rewards
-* More active users have higher chances of earning rewards (Proof of Distribution model)
-* Cash out MYNW for dollars and transfer to bank account
-   
+  
 ## **Tokenized Distribution Model**
 
 ### **Step 1: Controlled Payout Budget**
@@ -192,14 +173,17 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 2: Dynamic Seeder Assignment**
 
+* **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — total seeders (users who pinned the video)
 * Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
 * Randomization ensures fair distribution and regional load balance for faster delivery
-
+* Online users automatically share pinned content that can earn MYNW token rewards
+  
 ### **Step 3: Fair Reward Distribution**
 
+* **Proof of Distribution**: Users can earn MYNW for bandwidth + uptime
 * Each video receives a portion of the monthly reward pool based on its traffic share:
   ```
   Video_Share = (Bᵢ / ΣB) × Pᵢᶜᵃᵖ
@@ -209,7 +193,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
   Reward_User = (User_MB / Bᵢ) × Video_Share
   ```
 * No earning caps per user, users can earn unlimited MYNW tokens, rewards scale with sharing activity
-
+* More active users have higher chances of earning rewards (Proof of Distribution model)
+ 
 ### **Step 4: Payout Cap Enforcement**
 
 * Once the total monthly payout cap (**Pᵢᶜᵃᵖ**) is reached:
@@ -237,11 +222,11 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 
 **How tags are collected:**
 
-- Purchase content - Tips or one-time purchases
-- Share content - External shares to other platforms
-- Reshare content - Internal reshares within the app
-- Maximum 1000 tags stored
-- Newest tags added first, oldest removed when max reached
+- Purchase content - Tags from content purchased
+- Reshare content - Tags from content reshared
+- Share content - Tags from content shared 
+- Maximum 1000 tags stored from actions 
+- Oldest tags replaced when max reached
 
 ## **🛠️ Tech Stack**
 
@@ -254,11 +239,6 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 ### **AI Moderation & Compliance**
 * **IBM Watson AI**: Automated content moderation to block impersonation, deepfakes, and unsafe content
 * **Human-in-the-Loop**: Manual review layer for borderline cases, ensuring context-aware decisions
-
-### **Decentralized Distribution**
-* **InterPlanetary File System**: content offloaded for peer-to-peer distribution
-* **Pinning Trigger**: Content is pinned when explicitly saved by the user
-* **Proof of Distribution**: Users can earn MYNW for bandwidth + uptime
 
 ### **Wallet Integration**
 * Coinbase: Wallets-as-a-Service
