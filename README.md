@@ -167,7 +167,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 1: Controlled Payout Budget**
 
-* Global monthly payout cap (e.g. $1,000,000/month) limits total MYNW token rewards
+* **Monthly payout cap**: Limits total MYNW token rewards (e.g. $1,000,000/month) 
 * Payout cap scales with increased platform revenue (subscriptions, tips, content sales)
 * Prevents overspending while keeping rewards predictable and sustainable
 
