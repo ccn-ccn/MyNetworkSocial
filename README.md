@@ -38,7 +38,7 @@
 * 🤣 Comedians: Own the stage monetizing video clips for your audience
 * 👗 Models: Build your brand with exclusive content and fan experiences 
 
-Tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
+Tiered subscriptions with enhanced limits, priority delivery, and platform visibility
 
 | Tier          | Monthly Cost | Upload Limit  | Pin Limit    | 
 | ------------- | ------------ | ------------- | ------------ | 
