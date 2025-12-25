@@ -40,12 +40,12 @@
 
 Tiered subscriptions with enhanced upload limits, CDN delivery, and platform visibility
 
-| Tier          | Monthly Cost | Upload Limit | Pin Limit    | 
-| ------------- | ------------ | ------------ | ------------ | 
-| Free          |     $0       |    5 GB      |   500 MB     | 
-| Blue Check    |     $20      |    100 GB    |   1 GB       | 
-| Gold Check    |     $50      |    250 GB    |   2 GB       | 
-| Black Check   |     $100     |    1 TB      |   5 GB       | 
+| Tier          | Monthly Cost | Upload Limit  | Pin Limit    | 
+| ------------- | ------------ | ------------- | ------------ | 
+| Free          |     $0       |    5 GB       |   500 MB     | 
+| Blue Check    |     $20      |    50 GB      |   1 GB       | 
+| Gold Check    |     $50      |    100 GB     |   2 GB       | 
+| Black Check   |     $100     |    Unlimited  |   5 GB       | 
 
 <!--
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
