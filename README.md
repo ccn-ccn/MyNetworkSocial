@@ -225,7 +225,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 - Purchase content - Tags from content purchased
 - Reshare content - Tags from content reshared
 - Share content - Tags from content shared 
-- Maximum 1000 tags stored from actions 
+- Maximum 1000 tags stored from user actions 
 - Oldest tags replaced when max reached
 
 ## **🛠️ Tech Stack**
