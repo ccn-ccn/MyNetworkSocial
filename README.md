@@ -217,7 +217,7 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 |-----------|-----|------------------------------------------|
 | Following | 50% | Content from creators you follow         |
 | Tags      | 25% | Content matching your collected tags     |
-| Priority  | 10% | Trending content sorted by view count    |
+| Priority  | 10% | Content from premium tier creators       |
 | Popular   | 10% | Trending content sorted by view count    |
 | Random    | 5%  | Random selection for discovery           |
 
