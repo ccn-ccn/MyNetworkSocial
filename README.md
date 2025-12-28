@@ -167,7 +167,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Step 1: Controlled Payout Budget**
 
-* **Monthly payout cap**: Limits total MYNW token rewards (e.g. $1,000,000/month) 
+* **Payout cap**: Limits total MYNW token rewards (e.g. $1,000,000/month) 
 * Payout cap scales with increased platform revenue (subscriptions, tips, content sales)
 * Prevents overspending while keeping rewards predictable and sustainable
 
@@ -176,36 +176,27 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
-  * **Sᵢ** — total seeders (users who pinned the video)
+  * **Sᵢ** — active online seeders (users who pinned the video)
 * Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online users automatically share pinned content that can earn MYNW token rewards
   
 ### **Step 3: Fair Reward Distribution**
 
-* **Proof of Distribution**: Users can earn MYNW for bandwidth + uptime
-* Each video receives a portion of the monthly reward pool based on its traffic share:
+* **Proof of Distribution**: Users earn MYNW for bandwidth served
+* Rewards based on actual bytes transferred:
   ```
-  Video_Share = (Bᵢ / ΣB) × Pᵢᶜᵃᵖ
+  MYNW_Earned = (Bytes_Served / 1MB) × MYNW_Per_MB_Rate
   ```
-* Individual seeder rewards are proportional to the actual bandwidth they serve:
-  ```
-  Reward_User = (User_MB / Bᵢ) × Video_Share
-  ```
-* No earning caps per user, users can earn unlimited MYNW tokens, rewards scale with sharing activity
-* More active users have higher chances of earning rewards (Proof of Distribution model)
+* No earning caps per user: Users can earn unlimited MYNW tokens
+* Rewards scale directly with sharing activity
+* More active users have higher chances of being selected (Proof of Distribution model)
  
 ### **Step 4: Payout Cap Enforcement**
 
-* Once the total monthly payout cap (**Pᵢᶜᵃᵖ**) is reached:
-  * All further token rewards stop
-  * Dynamic Seeder Assignment is disabled
-
-### **Step 5: Auto Load Balancing**
-
-* After the payout cap is hit:
-  * Seeder participation expands network-wide
-  * Bandwidth burden per user drops
+* Once the $1M payout cap is reached:
+  * All further token rewards freeze (no new MYNW distributed)
+  * Dynamic Seeder Assignment continues for load balancing only (no rewards)
 
 ## **Recommendation Algorithm**
 
