@@ -45,7 +45,7 @@ Tiered subscriptions with enhanced limits, priority delivery, and platform visib
 | Free          |     $0       |    5 GB       |   500 MB     | 
 | Blue Check    |     $20      |    50 GB      |   1 GB       | 
 | Gold Check    |     $50      |    100 GB     |   2 GB       | 
-| Black Check   |     $100     |    Unlimited  |   5 GB       | 
+| Black Check   |     $100     |    Unlimited  |   Unlimited  | 
 
 <!--
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
