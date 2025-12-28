@@ -228,22 +228,6 @@ MyNetwork uses a recommendation system engineered to prevent algorithmic radical
 - Share content - Tags from content shared 
 - Maximum 1000 tags stored from user actions 
 - Oldest tags replaced when max reached
-
-## **🛠️ Tech Stack**
-
-### **Cloud Services & Delivery**
-* **IBM Cloud Databases for MongoDB**: Flexible database for user accounts, profiles, and app metadata
-* **IBM Cloud Object Storage**: Secure, scalable storage for all uploads
-* **Cloudflare CDN**: Global edge delivery for videos, livestreams, and static assets
-* **Hybrid Flow**: Uploads land in IBM storage, served via Cloudflare for low-latency delivery
-
-### **AI Moderation & Compliance**
-* **IBM Watson AI**: Automated content moderation to block impersonation, deepfakes, and unsafe content
-* **Human-in-the-Loop**: Manual review layer for borderline cases, ensuring context-aware decisions
-
-### **Wallet Integration**
-* Coinbase: Wallets-as-a-Service
-* Socure: KYC/AML
   
 ---
 
