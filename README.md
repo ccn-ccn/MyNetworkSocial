@@ -195,7 +195,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 4: Payout Cap Enforcement**
 
 * Once the payout cap is reached:
-  * All further token rewards freeze (no new MYNW distributed)
+  * All further token rewards freeze 
   * Dynamic Seeder Assignment continues for load balancing only
 
 ## **Recommendation Algorithm**
