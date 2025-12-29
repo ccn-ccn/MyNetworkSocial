@@ -196,7 +196,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 * Once the payout cap is reached:
   * All further token rewards freeze (no new MYNW distributed)
-  * Dynamic Seeder Assignment continues for load balancing only (no rewards)
+  * Dynamic Seeder Assignment continues for load balancing only
 
 ## **Recommendation Algorithm**
 
