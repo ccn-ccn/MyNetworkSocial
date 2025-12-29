@@ -200,7 +200,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ## **Recommendation Algorithm**
 
-MyNetwork uses a recommendation system engineered to promote genuine discovery and creator monetization. The MyNetwork algorithm represents a fundamental shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing monetization opportunities. User's recommendations are shaped by their own actions, not network popularity. 
+MyNetwork uses a recommendation system engineered to promote genuine discovery and creator monetization. The MyNetwork algorithm represents a shift from engagement-driven to intent-driven content discovery, creating a healthier digital environment while maximizing monetization opportunities. User's recommendations are shaped by their own actions, not network popularity. 
 
 ## Recommendation Priority
 
