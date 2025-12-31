@@ -189,7 +189,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
   ```
 * No earning caps, users can earn unlimited MYNW rewards
 * Rewards scale with sharing activity (Proof of Distribution)
-* More active users have higher chances of being selected as seeders
+* More active users have higher chance of being selected as seeders
  
 ### **Step 4: Payout Cap Enforcement**
 
