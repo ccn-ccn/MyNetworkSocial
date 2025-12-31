@@ -174,8 +174,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * Each video tracks:
-  * **Bᵢ** — total bandwidth served
-  * **Sᵢ** — active online seeders 
+  * Bᵢ — total bandwidth served
+  * Sᵢ — active online seeders 
 * Each time a video is viewed, a random subset of seeders is rewarded with MYNW for sharing bandwidth
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online seeders automatically share pinned content (data charges may apply)
@@ -227,7 +227,7 @@ We’re opening the doors for exclusive **Beta Testers** to join MyNetwork — T
 
 No ads. No exploitation. Just real connections and real rewards.
 <br><br>
-**💸 $1 million dollars in MYNW Rewards up for grabs (1 MYNW = 0.01 USD) 💸**
+**💸 $1 million dollars in MYNW rewards up for grabs (1 MYNW = 0.01 USD) 💸**
 <br><br>
 Create, Test, Earn while helping build a platform that puts creators first.
 
