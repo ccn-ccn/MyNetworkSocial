@@ -176,7 +176,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
-  * **Sᵢ** — active online seeders (users who pinned the video)
+  * **Sᵢ** — active online seeders 
 * Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online seeders automatically share pinned content and earn MYNW token rewards (data charges may apply)
