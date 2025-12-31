@@ -238,9 +238,7 @@ Beta testing officially begins on March 1, 2026. Selected testers will receive e
 
 ## **Why Join the Beta?**
 
-Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. The more active you are, the more you can earn.<br>
-<br>
-More than just a social media platform this is **Your network. Your rules. Your money.**
+Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. The more active you are, the more you can earn. More than just a social media platform this is **Your network. Your rules. Your money.**
 <br><br>
 👉 [**Apply now**](mailto:contact@mynetworksocial.com) to become a Beta Tester and claim your share of the future. Send a link to your social media account for approval.
 
