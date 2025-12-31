@@ -20,7 +20,7 @@
 
 ## **Key Features**
 
-### **💸 Direct Crypto Monetization**
+### **💸 Direct Monetization**
 * Instant Settlements:
   * Direct wallet to wallet transactions 
 * Creators can:
@@ -238,7 +238,7 @@ Beta testing officially begins on March 1, 2026. Selected testers will receive e
 
 ## **Why Join the Beta?**
 
-Get early access to the future of Social Media. Earn crypto while you post, view, and pin content.<br>
+Get early access to the future of Social Media. Earn while you post, view, and pin content.<br>
 Come be a part of the Proof of Distribution economy. The more active you are, the more you can earn.<br>
 
 **🌐 Go MyNetwork**<br>
