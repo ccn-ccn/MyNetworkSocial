@@ -188,15 +188,15 @@ No manual invoicing or off-chain payment processing is required — all compensa
   ```
   MYNW_Earned = (Bytes_Served / 1MB) × MYNW_Per_MB_Rate
   ```
-* No earning caps per user: Users can earn unlimited MYNW tokens
-* Rewards scale directly with sharing activity
-* More active users have higher chances of being selected (Proof of Distribution model)
+* No earning caps, users can earn unlimited MYNW tokens
+* Rewards scale directly with sharing activity (Proof of Distribution)
+* More active users have higher chances of being selected as seeders
  
 ### **Step 4: Payout Cap Enforcement**
 
 * Once the payout cap is reached:
-  * All further token rewards freeze 
-  * Dynamic Seeder Assignment continues for load balancing only
+  * All further MYNW token rewards freeze 
+  * Dynamic Seeder Assignment continues for load balancing
 
 ## **Recommendation Algorithm**
 
