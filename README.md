@@ -223,7 +223,7 @@ MyNetwork uses a recommendation system engineered to promote genuine discovery a
 
 ## **Be the First to Shape the Future of Social Media**
 
-We’re opening the doors for exclusive **Beta Testers** to join MyNetwork — The next generation of Social Media built for creators.
+We’re opening the doors for exclusive **Beta Testers** to join MyNetwork. The next generation of Social Media built for creators.
 
 No ads. No exploitation. Just real connections and real rewards.
 <br><br>
