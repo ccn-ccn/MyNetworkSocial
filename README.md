@@ -174,12 +174,12 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 2: Dynamic Seeder Assignment**
 
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
-* Each video tracks:
+* Each video tracks
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — active online seeders 
 * Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
 * Randomization ensures fair distribution and regional load balance for faster delivery
-* Online seeders automatically share pinned content and earn MYNW tokens (data charges may apply)
+* Online seeders automatically share pinned content (data charges may apply)
   
 ### **Step 3: Fair Reward Distribution**
 
