@@ -184,7 +184,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 3: Fair Reward Distribution**
 
 * **Proof of Distribution**: Users earn MYNW tokens for bandwidth served
-* Rewards based on actual bytes transferred:
+* Rewards are based on actual bytes transferred:
   ```
   MYNW_Earned = (Bytes_Served / 1MB) × MYNW_Per_MB_Rate
   ```
