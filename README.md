@@ -174,7 +174,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Step 2: Dynamic Seeder Assignment**
 
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
-* Each video tracks
+* Each video tracks:
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — active online seeders 
 * Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
@@ -183,7 +183,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
   
 ### **Step 3: Fair Reward Distribution**
 
-* **Proof of Distribution**: Users earn MYNW for bandwidth served
+* **Proof of Distribution**: Users earn MYNW tokens for bandwidth served
 * Rewards based on actual bytes transferred:
   ```
   MYNW_Earned = (Bytes_Served / 1MB) × MYNW_Per_MB_Rate
