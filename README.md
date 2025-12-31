@@ -28,7 +28,7 @@
    * Sell music, videos, photos and more
 * Sellers can:
    * Create products in app with price, description, and delivery 
-   * Track sales, manage inventory, and exchange stablecoins for dollars
+   * Track sales, manage inventory, and transfer funds to bank account
      
 ### **🎤 Empowering Creators**
 * 🎶 Musicians: Sell beats, music and digital collectibles directly to fans
