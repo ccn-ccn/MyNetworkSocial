@@ -163,12 +163,11 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ---
 -->
   
-## **Tokenized Distribution Model**
+## **Distribution Model**
 
 ### **Step 1: Controlled Payout Budget**
 
-* **Payout cap**: Limits total MYNW token rewards (e.g. $1,000,000/month) 
-* Payout cap scales with increased platform revenue (subscriptions, tips, content sales)
+* **Payout cap**: Limits total MYNW rewards (e.g. $1,000,000/month) 
 * Prevents overspending while keeping rewards predictable and sustainable
 
 ### **Step 2: Dynamic Seeder Assignment**
@@ -177,25 +176,25 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Each video tracks:
   * **Bᵢ** — total bandwidth served
   * **Sᵢ** — active online seeders 
-* Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
+* Each time a video is viewed, a random subset of seeders is rewarded with MYNW for sharing bandwidth
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online seeders automatically share pinned content (data charges may apply)
   
 ### **Step 3: Fair Reward Distribution**
 
-* **Proof of Distribution**: Users earn MYNW tokens for bandwidth served
+* **Proof of Distribution**: Users earn MYNW for bandwidth served
 * Rewards are based on actual bytes transferred:
   ```
   MYNW_Earned = (Bytes_Served / 1MB) × MYNW_Per_MB_Rate
   ```
-* No earning caps, users can earn unlimited MYNW tokens
-* Rewards scale directly with sharing activity (Proof of Distribution)
+* No earning caps, users can earn unlimited MYNW rewards
+* Rewards scale with sharing activity (Proof of Distribution)
 * More active users have higher chances of being selected as seeders
  
 ### **Step 4: Payout Cap Enforcement**
 
 * Once the payout cap is reached:
-  * All further MYNW token rewards freeze 
+  * All further MYNW rewards freeze 
   * Dynamic Seeder Assignment continues for load balancing
 
 ## **Recommendation Algorithm**
