@@ -179,7 +179,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
   * **Sᵢ** — active online seeders 
 * Each time a video is viewed, a random subset of seeders is rewarded with MYNW tokens for sharing it
 * Randomization ensures fair distribution and regional load balance for faster delivery
-* Online seeders automatically share pinned content and earn MYNW token rewards (data charges may apply)
+* Online seeders automatically share pinned content and earn MYNW tokens (data charges may apply)
   
 ### **Step 3: Fair Reward Distribution**
 
