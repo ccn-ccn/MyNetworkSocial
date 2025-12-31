@@ -240,10 +240,6 @@ Beta testing officially begins on March 1, 2026. Selected testers will receive e
 
 Get early access to the future of Social Media. Earn while you post, view, and pin content.<br>
 Come be a part of the Proof of Distribution economy. The more active you are, the more you can earn.<br>
-
-**🌐 Go MyNetwork**<br>
-**🎤 Go Viral**<br> 
-**💰 Go to the Bank**<br> 
 <br>
 More than just a social media platform this is **Your network. Your rules. Your money.**
 <br><br>
