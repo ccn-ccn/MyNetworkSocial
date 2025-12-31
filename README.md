@@ -239,6 +239,7 @@ Beta testing officially begins on March 1, 2026. Selected testers will receive e
 ## **Why Join the Beta?**
 
 Get early access to the future of Social Media. Earn while you post, view, and pin content.<br>
+<br>
 Come be a part of the Proof of Distribution economy. The more active you are, the more you can earn.<br>
 <br>
 More than just a social media platform this is **Your network. Your rules. Your money.**
