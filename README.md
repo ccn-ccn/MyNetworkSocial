@@ -176,7 +176,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Each content tracks:
   * Bᵢ — total bandwidth served
   * Sᵢ — active online seeders
-* Peer-to-Peer served views reward a random subset of online seeders with MYNW for sharing the content
+* Peer-to-Peer served views reward a random subset of online seeders with MYNW for sharing content
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online seeders automatically share pinned content (data charges may apply)
   
