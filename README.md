@@ -176,7 +176,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Each video tracks:
   * Bᵢ — total bandwidth served
   * Sᵢ — active online seeders 
-* Each time a video is viewed, a random subset of seeders is rewarded with MYNW for sharing bandwidth
+* Each time a video is viewed requests alternate between CDN and P2P delivery.
+* P2P served views reward a random subset of online seeders with MYNW for sharing the video.
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online seeders automatically share pinned content (data charges may apply)
   
