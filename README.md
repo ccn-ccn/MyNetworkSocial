@@ -221,6 +221,7 @@ MyNetwork uses a recommendation system engineered to promote genuine discovery a
   
 ---
 
+<!--
 ## **Be the First to Shape the Future of Social Media**
 
 We’re opening the doors for exclusive **Beta Testers** to join MyNetwork. The next generation of Social Media built for creators.
@@ -241,6 +242,33 @@ Beta testing officially begins on March 1, 2026. Selected testers will receive e
 Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. More than just a social media platform. This is **Your network. Your rules. Your money.**
 <br><br>
 👉 [**Apply now**](mailto:contact@mynetworksocial.com) to become a Beta Tester and claim your share of the future. Send a link to your social media account for approval.
+-->
+
+## Investment Opportunity
+
+**We're Seeking Visionary Investors to Build the Future of Social Media**
+
+MyNetwork is raising seed funding to bring our creator-first platform from concept to launch. This is your opportunity to get in on the ground floor of a platform designed to disrupt the $250B+ social media industry.
+
+### The Problem We're Solving
+
+Traditional social platforms exploit creators, harvest user data, and prioritize ad revenue over community. Creators receive pennies while platforms profit billions. Users are the product, not the customer.
+
+### Our Solution
+
+MyNetwork flips the model:
+- **Direct monetization** — No middleman taking 30-50% cuts
+- **Proof of Distribution rewards** — Users earn by sharing, not just scrolling
+- **Decentralized delivery** — Peer-to-peer infrastructure reduces costs and increases speed
+- **Transparent economics** — Blockchain-backed transactions creators can trust
+
+### Join Us
+
+We're looking for investors who believe in empowering creators and reshaping how value flows in social media.
+
+📩 **Interested?** [Reach out](mailto:contact@mynetworksocial.com) to discuss investment opportunities, review our pitch deck, and learn more about our roadmap.
+
+*Together, let's build a platform where everyone wins.*
 
 ---
 
