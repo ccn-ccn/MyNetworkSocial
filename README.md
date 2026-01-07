@@ -175,8 +175,8 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * Each content tracks:
   * Bᵢ — total bandwidth served
-  * Sᵢ — active online seeders
-* Peer-to-Peer shared content rewards a random subset of online seeders with MYNW rewards
+  * Sᵢ — active online seeders (users)
+* Peer-to-Peer sharing content provides a random subset of seeders with MYNW rewards
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online seeders automatically share pinned content (data charges may apply)
   
