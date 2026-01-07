@@ -248,7 +248,7 @@ Get early access to the future of Social Media. Come be a part of the Proof of D
 
 **We're Seeking Visionary Investors to Build the Future of Social Media**
 
-MyNetwork is raising seed funding to bring our creator-first platform from concept to launch. This is your opportunity to get in on the ground floor of a platform designed to disrupt the $250B+ social media industry.
+MyNetwork is raising seed funding to bring our creator first platform from concept to launch. This is your opportunity to get in on the ground floor of a platform designed to disrupt the $250B+ social media industry.
 
 ### The Problem We're Solving
 
