@@ -268,8 +268,6 @@ We're looking for investors who believe in empowering creators and reshaping how
 
 📩 **Interested?** [Reach out](mailto:contact@mynetworksocial.com) to discuss investment opportunities, review our pitch deck, and learn more about our roadmap.
 
-*Together, let's build a platform where everyone wins.*
-
 ---
 
 **Built with ❤️ for creators, powered by blockchain technology, designed for the future of social media**
