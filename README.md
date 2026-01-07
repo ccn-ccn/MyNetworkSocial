@@ -33,7 +33,7 @@
 ### **🎤 Empowering Creators**
 * 🎶 Musicians: Sell beats, music and digital collectibles directly to fans
 * 🎬 Filmmakers: Turn views into revenue with short film and movie clips
-* 🛍️ Retail Stores: Sell globally through your own integrated storefront
+* 🛍️ Entrepreneurs: Sell globally through your own integrated storefront
 * 🧠 Educators: Teach the future launching courses in trade skills
 * 🤣 Comedians: Own the stage monetizing video clips for your audience
 * 👗 Models: Build your brand with exclusive content and fan experiences 
