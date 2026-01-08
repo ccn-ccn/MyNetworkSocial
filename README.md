@@ -165,12 +165,12 @@ No manual invoicing or off-chain payment processing is required — all compensa
   
 ## **Distribution Model**
 
-### **Step 1: Controlled Payout Budget**
+### **Controlled Payout Budget**
 
 * **Payout cap**: Limits total MYNW rewards (e.g. $1,000,000/month) 
 * Prevents overspending while keeping rewards predictable and sustainable
 
-### **Step 2: Dynamic Seeder Assignment**
+### **Dynamic Seeder Assignment**
 
 * **Pinning Trigger**: Content is pinned when explicitly saved by the user
 * Each content tracks:
@@ -180,7 +180,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Randomization ensures fair distribution and regional load balance for faster delivery
 * Online seeders automatically share pinned content (data charges may apply)
   
-### **Step 3: Fair Reward Distribution**
+### **Fair Reward Distribution**
 
 * **Proof of Distribution**: Users earn MYNW for bandwidth served
 * Rewards are based on actual bytes transferred:
@@ -191,7 +191,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Rewards scale with sharing activity (Proof of Distribution)
 * More active users have higher chance of being selected as seeders
  
-### **Step 4: Payout Cap Enforcement**
+### **Payout Cap Enforcement**
 
 * Once the payout cap is reached:
   * All further MYNW rewards freeze 
