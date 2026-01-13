@@ -193,7 +193,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
  
 ### **Payout Cap Enforcement**
 
-* Once the payout cap is reached:
+* Once the monthly payout cap is reached:
   * All further MYNW rewards freeze 
   * Dynamic Seeder Assignment continues for load balancing
 
