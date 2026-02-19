@@ -167,7 +167,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 
 ### **Controlled Payout Budget**
 
-* **Payout cap**: Limits total MYNW rewards (e.g. $1,000,000/month) 
+* **Payout cap**: Limits total MYNW rewards
 * Prevents overspending while keeping rewards predictable and sustainable
 
 ### **Dynamic Seeder Assignment**
