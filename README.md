@@ -44,7 +44,7 @@ Tiered subscriptions with enhanced limits, priority delivery, and platform visib
 | ------------- | ------------ | ------------- | ------------ | 
 | Free          |     $0       |    5 GB       |   500 MB     | 
 | Blue Check    |     $20      |    50 GB      |   5 GB       | 
-| Gold Check    |     $50      |    100 GB     |   10 GB      | 
+| Silver Check  |     $50      |    100 GB     |   10 GB      | 
 | Black Check   |     $100     |    Unlimited  |   Unlimited  | 
 
 <!--
