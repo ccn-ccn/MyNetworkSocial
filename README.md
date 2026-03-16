@@ -185,7 +185,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * **Proof of Distribution**: Users earn MYNW for bandwidth served
 * Rewards are based on actual bytes transferred:
   ```
-  MYNW_Earned = (Bytes_Served / 1MB) × MYNW_Per_MB_Rate
+  MYNW_Earned = Views Delivered x MYNW Per View Rate
   ```
 * No earning caps, users can earn unlimited MYNW rewards
 * Rewards scale with sharing activity (Proof of Distribution)
