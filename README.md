@@ -240,7 +240,7 @@ Beta testing officially begins TBD. Selected testers will receive early access c
 
 Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. More than just a social media platform. This is **Your network. Your rules. Your money.**
 <br><br>
-👉 [**Signup now**](mynetworksocial.com) to become a Beta Tester and claim your share of the future. 
+👉 **[Sign up now](https://mynetworksocial.com)** to become a Beta Tester and claim your share of the future.
 
 ---
 
