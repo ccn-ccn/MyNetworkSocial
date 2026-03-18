@@ -242,6 +242,7 @@ Get early access to the future of Social Media. Come be a part of the Proof of D
 <br><br>
 👉 [**Signup now**](mynetworksocial.com) to become a Beta Tester and claim your share of the future. 
 
+---
 
 ## Investment Opportunity
 
