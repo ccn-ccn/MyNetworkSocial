@@ -221,7 +221,6 @@ MyNetwork uses a recommendation system engineered to promote genuine discovery a
   
 ---
 
-<!--
 ## **Be the First to Shape the Future of Social Media**
 
 We’re opening the doors for exclusive **Beta Testers** to join MyNetwork. The next generation of Social Media built for creators.
@@ -234,15 +233,15 @@ Create, Test, Earn while helping build a platform that puts creators first.
 
 ## **Launch Date**
 
-Beta testing officially begins on March 1, 2026. Selected testers will receive early access credentials and onboarding materials one week prior to launch. Application Deadline: Rolling admissions until all Beta slots are filled.
+Beta testing officially begins TBD. Selected testers will receive early access credentials and onboarding materials one week prior to launch. Application Deadline: Rolling admissions until all Beta slots are filled.
 <br>
 
 ## **Why Join the Beta?**
 
 Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. More than just a social media platform. This is **Your network. Your rules. Your money.**
 <br><br>
-👉 [**Apply now**](mailto:contact@mynetworksocial.com) to become a Beta Tester and claim your share of the future. Send a link to your social media account for approval.
--->
+👉 [**Signup now**](mynetworksocial.com) to become a Beta Tester and claim your share of the future. 
+
 
 ## Investment Opportunity
 
