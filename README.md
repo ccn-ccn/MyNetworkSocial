@@ -183,7 +183,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 ### **Fair Reward Distribution**
 
 * **Proof of Distribution**: Users earn MYNW for bandwidth served
-* Rewards are based on actual bytes transferred:
+* Rewards are based on actual views received:
   ```
   MYNW_Earned = Views Delivered x MYNW Per View Rate
   ```
