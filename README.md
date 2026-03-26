@@ -226,8 +226,8 @@ MyNetwork uses a recommendation system engineered to promote genuine discovery a
 We’re opening the doors for exclusive **Beta Testers** to join MyNetwork. The next generation of Social Media built for creators.
 
 No ads. No exploitation. Just real connections and real rewards.
-<br><br>
-**$1,000,000 in MYNW rewards up for grabs**
+<!--<br><br>
+**$1,000,000 in MYNW rewards up for grabs**-->
 <br><br>
 Create, Test, Earn while helping build a platform that puts creators first.
 
