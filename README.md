@@ -227,8 +227,8 @@ We’re opening the doors for exclusive **Beta Testers** to join MyNetwork. The 
 
 No ads. No exploitation. Just real connections and real rewards.
 <!--<br><br>
-**$1,000,000 in MYNW rewards up for grabs**-->
-<br><br>
+**$1,000,000 in MYNW rewards up for grabs**
+<br><br>-->
 Create, Test, Earn while helping build a platform that puts creators first.
 
 ## **Launch Date**
