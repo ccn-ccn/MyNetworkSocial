@@ -44,7 +44,7 @@ Tiered subscriptions with enhanced limits, priority delivery, and platform visib
 | -------- | ------------ | ------------- | ------------ | 
 | Free     |     $0       |    1 GB       |   100 MB     | 
 | Blue     |     $20      |    50 GB      |   5 GB       | 
-| SIlver   |     $50      |    100 GB     |   10 GB      | 
+| Silver   |     $50      |    100 GB     |   10 GB      | 
 | Black    |     $100     |    Unlimited  |   Unlimited  | 
 
 <!--
