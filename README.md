@@ -42,7 +42,7 @@ Tiered subscriptions with enhanced limits, priority delivery, and platform visib
 
 | Tier     | Monthly Cost | Upload Limit  | Pin Limit    | 
 | -------- | ------------ | ------------- | ------------ | 
-| Free     |     $0       |    5 GB       |   500 MB     | 
+| Free     |     $0       |    1 GB       |   100 MB     | 
 | Blue     |     $20      |    50 GB      |   5 GB       | 
 | SIlver   |     $50      |    100 GB     |   10 GB      | 
 | Black    |     $100     |    Unlimited  |   Unlimited  | 
