@@ -211,14 +211,6 @@ MyNetwork uses a recommendation system engineered to promote genuine discovery a
 | Popular   | 10% | Trending content sorted by view count    |
 | Random    | 5%  | Random selection for discovery           |
 
-**How tags are collected:**
-
-- Purchase content - Tags from content purchased
-- Reshare content - Tags from content reshared
-- Share content - Tags from content shared 
-- Maximum 1000 tags stored from user actions 
-- Oldest tags replaced when max reached
-  
 ---
 
 ## **Be the First to Shape the Future of Social Media**
