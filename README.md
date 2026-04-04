@@ -220,14 +220,14 @@ We’re opening the doors for exclusive **Beta Testers** to join MyNetwork. The 
 No ads. No exploitation. Just real connections and real rewards.
 <!--<br><br>
 **$1,000,000 in MYNW rewards up for grabs**
-<br><br>-->
+<br><br>
 Create, Test, Earn while helping build a platform that puts creators first.
 
 ## **Launch Date**
 
 Beta testing officially begins TBD. Selected testers will receive early access credentials and onboarding materials one week prior to launch. Application Deadline: Rolling admissions until all Beta slots are filled.
 <br>
-
+-->
 ## **Why Join the Beta?**
 
 Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. More than just a social media platform. This is **Your network. Your rules. Your money.**
