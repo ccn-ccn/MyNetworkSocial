@@ -212,13 +212,13 @@ MyNetwork uses a recommendation system engineered to promote genuine discovery a
 | Random    | 5%  | Random selection for discovery           |
 
 ---
-
+<!--
 ## **Be the First to Shape the Future of Social Media**
 
 We’re opening the doors for exclusive **Beta Testers** to join MyNetwork. The next generation of Social Media built for creators.
 
 No ads. No exploitation. Just real connections and real rewards.
-<!--<br><br>
+<br><br>
 **$1,000,000 in MYNW rewards up for grabs**
 <br><br>
 Create, Test, Earn while helping build a platform that puts creators first.
@@ -227,7 +227,7 @@ Create, Test, Earn while helping build a platform that puts creators first.
 
 Beta testing officially begins TBD. Selected testers will receive early access credentials and onboarding materials one week prior to launch. Application Deadline: Rolling admissions until all Beta slots are filled.
 <br>
--->
+
 ## **Why Join the Beta?**
 
 Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. More than just a social media platform. This is **Your network. Your rules. Your money.**
@@ -259,7 +259,7 @@ MyNetwork flips the model:
 We're looking for investors who believe in empowering creators and reshaping how value flows in social media.
 
 📩 **Interested?** [Reach out](mailto:contact@mynetworksocial.com) to discuss investment opportunities, review our pitch deck, and learn more about our roadmap.
-
+-->
 ---
 
 **Built with ❤️ for creators, powered by blockchain technology, designed for the future of social media**
