@@ -259,7 +259,7 @@ MyNetwork flips the model:
 We're looking for investors who believe in empowering creators and reshaping how value flows in social media.
 
 📩 **Interested?** [Reach out](mailto:contact@mynetworksocial.com) to discuss investment opportunities, review our pitch deck, and learn more about our roadmap.
--->
----
 
+---
+-->
 **Built with ❤️ for creators, powered by blockchain technology, designed for the future of social media**
