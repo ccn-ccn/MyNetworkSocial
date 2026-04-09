@@ -29,7 +29,7 @@
 * Sellers can:
    * Create products in app with price, description, and delivery 
    * Track sales, manage inventory, and transfer funds to bank account
-     
+<!--  
 ### **🎤 Empowering Creators**
 * 🎶 Musicians: Sell beats, music and digital collectibles directly to fans
 * 🎬 Filmmakers: Turn views into revenue with short film and movie clips
@@ -47,7 +47,7 @@ Tiered subscriptions with enhanced limits, priority delivery, and platform visib
 | Silver   |     $50      |    100 GB     |   10 GB      | 
 | Black    |     $100     |    Unlimited  |   Unlimited  | 
 
-<!--
+
 ### **💳 Peer-to-Peer NFT (P2P Smart Contract)**
 
 The Peer-to-Peer NFT (P2P Smart Contract) is a peer to peer lending system built directly into the platform. This enables fans, backers, and lenders to provide upfront capital to creators in exchange for a share of their on platform earnings, secured by a smart contract and represented as a NFT.
