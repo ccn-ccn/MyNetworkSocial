@@ -11,8 +11,8 @@
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-22-33" src="https://github.com/user-attachments/assets/b0b4a05c-660e-4d8c-b097-f3281dac2022" />
 <br><br>
 <img width="1300" height="963" alt="Screenshot from 2025-10-07 10-22-03" src="https://github.com/user-attachments/assets/7a1cfc40-1dc8-44df-b02d-6e09f3c08d67" />
--->
-## 📱 Phone View  
+
+## 📱 Phone View  -->
 | ![1](https://github.com/user-attachments/assets/eedee00c-b917-4f3a-acae-624876e66788) | ![2](https://github.com/user-attachments/assets/750c88bc-837c-4c17-8f8d-f473855fb8c5) | ![4](https://github.com/user-attachments/assets/88bb096b-884c-4761-bf69-6799d682579b) |
 |---|---|---|
 | ![5](https://github.com/user-attachments/assets/a94f3136-ebbe-41dc-9b82-2a7676141c97) | ![6](https://github.com/user-attachments/assets/cfa81623-5bb3-4a8b-9b94-c242f263e833) | ![8](https://github.com/user-attachments/assets/73223335-b536-4841-b2db-c840f6ba43c2) |
