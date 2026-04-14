@@ -263,7 +263,7 @@ We're looking for investors who believe in empowering creators and reshaping how
 
 #### **Why Join the Beta?**
 
-Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. 👉 **[Sign up now](https://mynetworksocial.com)** 
+Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. 👉 **[Sign up](https://mynetworksocial.com)** 
 
 ---
 
