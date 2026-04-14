@@ -261,6 +261,12 @@ We're looking for investors who believe in empowering creators and reshaping how
 
 📩 **Interested?** [Reach out](mailto:contact@mynetworksocial.com) to discuss investment opportunities, review our pitch deck, and learn more about our roadmap.
 
+## **Why Join the Beta?**
+
+Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. More than just a social media platform. This is **Your network. Your rules. Your money.**
+<br><br>
+👉 **[Sign up now](https://mynetworksocial.com)** 
+
 ---
 
 **Built with ❤️ for creators, powered by blockchain technology, designed for the future of social media**
