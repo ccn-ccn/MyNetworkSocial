@@ -162,7 +162,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 > - All off-chain deliverables should be clearly referenced in the contract metadata and attached agreements.
 
 ---
--->
+
   
 ## **Distribution Model**
 
@@ -197,6 +197,7 @@ No manual invoicing or off-chain payment processing is required — all compensa
 * Once the monthly payout cap is reached:
   * All further MYNW rewards freeze 
   * Dynamic Seeder Assignment continues for load balancing
+-->
 
 ## **Recommendation Algorithm**
 
