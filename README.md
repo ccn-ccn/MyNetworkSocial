@@ -254,7 +254,7 @@ MyNetwork flips the model:
 - **Proof of Distribution rewards** — Users earn by sharing, not just scrolling
 - **Decentralized delivery** — Peer-to-peer infrastructure reduces costs and increases speed
 - **Transparent economics** — Blockchain-backed transactions creators can trust
--->
+
 ### Join Us
 
 We're looking for investors who believe in empowering creators and reshaping how value flows in social media.
@@ -264,7 +264,7 @@ We're looking for investors who believe in empowering creators and reshaping how
 #### **Why Join the Beta?**
 
 Get early access to the future of Social Media. Come be a part of the Proof of Distribution economy. 👉 **[Sign up](https://mynetworksocial.com)** 
-
+-->
 ---
 
 **Built with ❤️ for creators, powered by blockchain technology, designed for the future of social media**
